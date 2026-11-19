@@ -1,0 +1,824 @@
+{
+  "practice-8fff7e3dcc944c899df3a342f186aaae": {
+    "basePhrase": "small adjustments",
+    "chinese": "这个模型还得再调一调。",
+    "why": "fine-tuning 把 small adjustments 压缩成“细致微调”，重点是已有模型上的小幅优化；不是重做整个模型。原 Equivalent 是定义，放进句子时要改成名词结构。",
+    "index": 0
+  },
+  "practice-48f701872edc43b4a860f747db39a43c": {
+    "basePhrase": "happened unexpectedly",
+    "chinese": "对了，刚才测试中突然冒出了一个新问题。",
+    "why": "cropped up 和 happened unexpectedly 在这里都指问题意外出现；crop up 常搭配 issue、problem，语气自然，且暗示没料到、需要处理。描述计划内发生的事通常不用它。",
+    "index": 1
+  },
+  "practice-0977a6fcf95649ca858b8f9eb236bd50": {
+    "basePhrase": "greatly improve my skills",
+    "chinese": "做完这个项目，我感觉自己进步挺大的。",
+    "why": "significantly improve my skills 与 greatly improve my skills 在本句基本可替换；significantly 更适合总结成果，但并不自动表示有统计学显著性。原笔记的 capability 需要按语境改成 skills。",
+    "index": 2
+  },
+  "practice-cbc1a63d78754c129d3b16910c732b20": {
+    "basePhrase": "continue to learn",
+    "chinese": "这份工作让我一直有东西学。",
+    "why": "keep learning 与 continue to learn 在这里都表示持续学习，前者更轻松直接。原 Equivalent 里的 grow 还包含成长，不能认为两个表达在所有语境都完全等义。",
+    "index": 3
+  },
+  "practice-5cb0057107e6416d8d2236037982a3a4": {
+    "basePhrase": "work closely with",
+    "chinese": "我平时跟设计师们一起做事，配合挺多的。",
+    "why": "collaborate closely with 与 work closely with 都表示紧密协作；collaborate 更明确强调共同完成任务。work as a team 是整句层面的表达，不能原样塞进这个介词结构。",
+    "index": 4
+  },
+  "practice-7b8333e2e0234b5fafe967d0daef2647": {
+    "basePhrase": "win the manager's approval",
+    "chinese": "经理说什么他都夸，就是想讨好经理。",
+    "why": "curry favor with 比 win someone's approval 更带贬义，暗示刻意奉承、谋取好感。它不是中性的“获得认可”，不宜随意用于公开评价同事。",
+    "index": 5
+  },
+  "practice-17d939db286044faa99f1d1a2419c863": {
+    "basePhrase": "avoid",
+    "chinese": "做不到的事，咱就别先答应了。",
+    "why": "steer clear of 在这里相当于 avoid，语气更有画面感，强调主动避开风险；两者后面都可接 making promises。不是所有“避免”都需要换成这个短语。",
+    "index": 6
+  },
+  "practice-e88515d1fef545c4bd7da48db68c42cb": {
+    "basePhrase": "made a small concession to us",
+    "chinese": "供应商就给了点小折扣，算是意思一下。",
+    "why": "threw us a bone 对应 made a small concession to us，但还带“只给一点安抚、应付不满”的意味。它比中性的 concession 更不满、更口语。",
+    "index": 7
+  },
+  "practice-d882dde075e748358cddbce57944f05e": {
+    "basePhrase": "united to defend themselves",
+    "chinese": "外面一开始批评，领导们就抱团了。",
+    "why": "circled the wagons 是 united to defend themselves 的比喻说法，强调集体防御外界批评；可能暗示排外或护短，不等于所有形式的团队合作。",
+    "index": 8
+  },
+  "practice-7942f275eb634e24b6db50c027575e72": {
+    "basePhrase": "dead-end street",
+    "chinese": "客户办公室就在那条走到底没出口的街上。",
+    "why": "cul-de-sac 与 dead-end street 在这里都指一端不通的街道；cul-de-sac 常让人想到住宅区尽端。不是所有 passage 都是街道，原定义不能逐词替换。",
+    "index": 9
+  },
+  "practice-cef4d1e522db410f847d6547655e1d4d": {
+    "basePhrase": "the symbols < and >",
+    "chinese": "占位符放在那对尖括号里面就行。",
+    "why": "angle brackets 是符号 < 和 > 的名称；这里是从展示符号转为说出正式名称，不是语气更高级。尖括号与圆括号 parentheses 不同。",
+    "index": 10
+  },
+  "practice-8430dcb32a504eeb85ff76ed63490aa2": {
+    "basePhrase": "the symbols “ and ”",
+    "chinese": "原话加个引号标出来吧。",
+    "why": "quotation marks 是引号的名称，基础句直接展示符号。它不是换一种更客气的表达，而是学会在讨论文档时准确称呼标点。",
+    "index": 11
+  },
+  "practice-90d8541685054288994ce8326f5ac51f": {
+    "basePhrase": "the symbol ':'",
+    "chinese": "选项列出来之前，加个冒号吧。",
+    "why": "colon 是符号 : 的名称。可以用 a colon 替代 a symbol ':'，但此处已把冠词留在句中，所以只替换名词短语。",
+    "index": 12
+  },
+  "practice-a0320ff7c9b24015812572cd40359369": {
+    "basePhrase": "intervene",
+    "chinese": "你能不能帮着说两句，把这个分歧解决一下？",
+    "why": "step in 与 intervene 都表示介入；step in 更口语，常带主动帮忙的意味。intervene 可能更正式，也可用于冲突干预，不能一概理解为接管。",
+    "index": 13
+  },
+  "practice-3c4e9cfc535b483faab34be95119cf23": {
+    "basePhrase": "strategy",
+    "chinese": "这笔钱为什么要投，提案里得讲清楚。",
+    "why": "strategic intent 比 strategy 更聚焦“想达成什么、为什么投入”；strategy 通常还包括怎样实现。两者相关，但不是精确同义词。",
+    "index": 14
+  },
+  "practice-de72e22d3cf9404a9db142cb39e75c37": {
+    "basePhrase": "major success",
+    "chinese": "这次产品发布，效果好得超出预期。",
+    "why": "runaway success 比 major success 更强调非常突出的成功；不一定表示成功还在持续加速。原 Equivalent 的 increasing more quickly 不能当作它的完整定义。",
+    "index": 15
+  },
+  "practice-6d01ce3aacea4befa63a15bb2f82d2be": {
+    "basePhrase": "everyone's effort",
+    "chinese": "这次能发成，真是多亏大家了。",
+    "why": "the team's hard work 与 everyone's effort 在这里都归功于团队付出；hard work 还强调辛勤努力。这里的进阶是搭配更具体，不是必须把简单词换长。",
+    "index": 16
+  },
+  "practice-0249b7d3d8aa47f18086f8bd8d1845f7": {
+    "basePhrase": "going against the downward trend",
+    "chinese": "大环境都在往下走，咱们这个月销量倒涨了。",
+    "why": "bucking the downward trend 指逆势而行，此处可替换 going against the downward trend。它描述与总体趋势相反，不是笼统的 differ；原 Equivalent 的语法也不能直接使用。",
+    "index": 17
+  },
+  "practice-b85b18210b494c2ba0c3b466df8b8c8d": {
+    "basePhrase": "full of guesses",
+    "chinese": "办公室里大家都在猜这次合并到底怎么回事。",
+    "why": "abuzz with speculation 比 full of guesses 更形象地表示大家热烈议论、猜测纷纷。speculation 并不等于已经证实的信息。",
+    "index": 18
+  },
+  "practice-3112189167cb49908b823cc224b95dae": {
+    "basePhrase": "ignored",
+    "chinese": "没叫她去开会，她觉得自己被冷落了。",
+    "why": "snubbed 比 ignored 更突出受到轻慢或有意冷落的感受。仅仅漏发邀请也可能让人 feel snubbed，但不能据此断言对方故意排斥。",
+    "index": 19
+  },
+  "practice-d71a2ddaaf5b449bb7c4380590b22a9f": {
+    "basePhrase": "shake my damn head",
+    "chinese": "他在群里回了个“smdh”，估计也是无语了。",
+    "why": "smdh 是 shake my damn head 的网络缩写，表达无奈或不满。两种写法在这里都作为被引用的聊天内容；有粗口色彩，仅适合熟悉的非正式聊天。",
+    "index": 20
+  },
+  "practice-99f1fa75d92047c7b05b016d652d91e6": {
+    "basePhrase": "internal organs",
+    "chinese": "烤鸡之前，里面那包鸡杂先拿出来。",
+    "why": "giblets 比 internal organs 更具体，通常指禽类心、肝、胗等食用内脏，包装里也可能有脖子。不能把所有动物内脏都叫 giblets。",
+    "index": 21
+  },
+  "practice-9f69282426e6422d9766ed7584aa3242": {
+    "basePhrase": "cooking fat",
+    "chinese": "洗锅前，先把里面的油擦掉吧。",
+    "why": "grease 在这里是附着在锅里的烹饪油脂、油污；cooking fat 更中性。原笔记 fat oil 不是自然的固定搭配，已按句意调整。",
+    "index": 22
+  },
+  "practice-be8c8a96b4a6461085c261a97c7fffe6": {
+    "basePhrase": "focus only on",
+    "chinese": "别光盯着这一个数，整体也得看看。",
+    "why": "fixate on 比 focus on 更强，常暗示过度执着。基础句加 only 才贴近这里的批评语气；正常专注某项任务时不宜随便换成 fixate。",
+    "index": 23
+  },
+  "practice-1f6819e84a084823ab5534bcd53d1ebe": {
+    "basePhrase": "person unfairly blamed",
+    "chinese": "这又不是他一个人的决定，别让他一个人背锅。",
+    "why": "scapegoat 对应 person unfairly blamed，强调为别人的错误或集体问题承担不应有的责备。单纯负责善后的人不一定是 scapegoat。",
+    "index": 24
+  },
+  "practice-f46c71b0157b4142ba651541d58571f4": {
+    "basePhrase": "achieved another success",
+    "chinese": "这次新版本又做成了，团队再下一城。",
+    "why": "notched another success 与 achieved another success 在这里都表示又取得一次成功；notch 有“记下一项战绩”的形象感，常见于成果总结。",
+    "index": 25
+  },
+  "practice-12cfd42b7f214338aa77cd9f00fe14b8": {
+    "basePhrase": "most successful period",
+    "chinese": "那个框架最火的时候，真吸引了不少开发者。",
+    "why": "heyday 指最成功、最流行的时期，在这里替换 most successful period。它回顾鼎盛阶段，不能用来泛指任何过去的日子。",
+    "index": 26
+  },
+  "practice-cad426ae87cd4991a73d192a1fce9ed0": {
+    "basePhrase": "rare sight",
+    "chinese": "独立维修店现在真是越来越少见了。",
+    "why": "a dying breed 比 a rare sight 多了“正在消失、越来越少”的趋势意味。不是已经灭绝；通常是带一点惋惜的说法。",
+    "index": 27
+  },
+  "practice-f576a5b217404ca6ad4b4a9f1d3e3a1b": {
+    "basePhrase": "fast-growing",
+    "chinese": "这座城的科技圈，这几年发展得挺快。",
+    "why": "burgeoning 与 fast-growing 在这里都形容迅速发展；burgeoning 常带新兴、蓬勃的感觉。原笔记 fast-grwoing 是拼写错误，基础句已更正。",
+    "index": 28
+  },
+  "practice-523d687a88ca4aca8ce291416e7d7db1": {
+    "basePhrase": "keep questioning",
+    "chinese": "咱不能每做完一个决定，就又回头怀疑吧。",
+    "why": "second-guess 在这里与 keep questioning 接近，强调事后反复质疑已作出的决定；它也可指揣测他人意图，需看语境。不是普通的第二次猜答案。",
+    "index": 29
+  },
+  "practice-9ea61c506aa542148b015e7f79ae3548": {
+    "basePhrase": "a good amount of",
+    "chinese": "反馈收到了不少，够我们好好看看了。",
+    "why": "a healthy amount of 与 a good amount of 都表示相当可观的数量；healthy 通常还带积极、充足的评价，不一定是越多越好。",
+    "index": 30
+  },
+  "practice-bc1d2fe2b700491bb68e48a8781abdf3": {
+    "basePhrase": "humanities and related subjects",
+    "chinese": "她以前是学文科的，后来才转去做软件。",
+    "why": "liberal arts 是教育领域的类别，范围可能包含人文、社会科学和部分自然科学。humanities and related subjects 是本句的简化说明，不是各学校课程分类的严格等号。",
+    "index": 31
+  },
+  "practice-3dcd7f4d20f6497287964a86b78f7156": {
+    "basePhrase": "loyal followers",
+    "chinese": "我们游戏开头，反派就派手下去吓唬目击者。",
+    "why": "henchmen 比 loyal followers 更负面，常指替反派做坏事的手下。原笔记单数 a faithful follower 需要按这里复数和反派语境调整。",
+    "index": 32
+  },
+  "practice-060c301a0b10435994c42836145a1eb8": {
+    "basePhrase": "made me want to set more ambitious goals",
+    "chinese": "看了她做的东西，我也想把目标定高一点。",
+    "why": "inspired me to aim higher 将“受到启发、追求更高目标”表达得更紧凑；与基础句含义接近。原笔记 ignite the desire 单独使用缺少欲望指向，不能直接替换整个结构。",
+    "index": 33
+  },
+  "practice-0c73d4796f9a42d7be3f68541b77663d": {
+    "basePhrase": "avoid",
+    "chinese": "发布这段时间，先别改配置了。",
+    "why": "refrain from 在这里相当于 avoid，但更像正式的克制或请求，后接 making changes。和同事随口说 don't make changes 也自然，正式不自动等于更好。",
+    "index": 34
+  },
+  "practice-64fedabdb24a47e4af453fd7d1182ac1": {
+    "basePhrase": "finalize",
+    "chinese": "对外说之前，咱先把时间定死吧。",
+    "why": "firm up 与 finalize 在本句都表示让安排明确下来；firm up 常用于尚在商量的时间或计划。它未必带有法律或流程上最终批准的含义。",
+    "index": 35
+  },
+  "practice-ce359283847e4dbb98cc507764e0f2c9": {
+    "basePhrase": "neat and organized",
+    "chinese": "客户快到了，工作区先收拾利索点吧。",
+    "why": "shipshape 把 neat and organized 说得更有画面感，指整齐、有条理；不只指表面干净。用于工作区可以，正式验收标准仍应列清具体要求。",
+    "index": 36
+  },
+  "practice-f0002ec3881343669fda4388133ddf28": {
+    "basePhrase": "something extremely complicated",
+    "chinese": "设个共享日历没那么难，我带你弄一遍。",
+    "why": "isn't rocket science 常用来表示“不是什么特别复杂的事”，与基础句的否定含义相近。对不熟悉的人这样说可能显得轻视，先判断关系与语气。",
+    "index": 37
+  },
+  "practice-4ed3550b67af415aa98b29e133f70e99": {
+    "basePhrase": "tight-fitting one-piece outfit",
+    "chinese": "公司亲子活动那个体操环节，孩子得穿体操服吗？",
+    "why": "leotard 是特定的连体紧身体操或舞蹈服，比 tight-fitting one-piece outfit 准确。不是所有贴身衣物都叫 leotard。",
+    "index": 38
+  },
+  "practice-67264e7940604e45a00a28152c659b50": {
+    "basePhrase": "threatening",
+    "chinese": "那位访客看前台的眼神，怪吓人的。",
+    "why": "menacing 与 threatening 都可形容带威胁感的眼神；menacing 强调让人感到危险。它描述观感，并不能单凭眼神证明对方会采取行动。",
+    "index": 39
+  },
+  "practice-0da160539e954c3b9901691389f105fd": {
+    "basePhrase": "Chaos",
+    "chinese": "火警一响，现场一下就乱了。",
+    "why": "pandemonium 比 chaos 更突出吵闹、失序、人群混乱。此处都作主语，与 broke out 搭配；静态的代码混乱通常不这样说。",
+    "index": 40
+  },
+  "practice-d964808c57794c078f8246623c970df5": {
+    "basePhrase": "large trash container",
+    "chinese": "这些大箱子放到外面那个大垃圾箱里吧。",
+    "why": "dumpster 是室外的大型垃圾箱，比 large trash container 更具体。原 Equivalent dustbin 多指普通垃圾桶，不能忽略尺寸和使用场景的差别。",
+    "index": 41
+  },
+  "practice-d640277568724fe6a0237e03988daee7": {
+    "basePhrase": "an achievement she could be proud of",
+    "chinese": "拿到那个奖，她确实有得骄傲了。",
+    "why": "a feather in her cap 是 an achievement she could be proud of 的习语说法，强调值得自豪的成绩。不是泛指任何小事，也不必逐字译成帽子上的羽毛。",
+    "index": 42
+  },
+  "practice-ccf830312d664ea9be38efc4e193b00f": {
+    "basePhrase": "add detail to",
+    "chinese": "提案里再补几个例子吧，这样更好懂。",
+    "why": "flesh out 在这里就是 add detail to，让原本只有骨架的想法更完整。它不是把提案推翻重写，也不只是增加字数。",
+    "index": 43
+  },
+  "practice-09f392751f2940eab4a407a62f9a3456": {
+    "basePhrase": "am especially fond of",
+    "chinese": "我就是特别喜欢老书店，团队出去我也总想逛一家。",
+    "why": "have a soft spot for 与 am especially fond of 接近，带温柔偏爱、容易心动的感觉。它可用于人或物，不必理解成客观评价最好。",
+    "index": 44
+  },
+  "practice-2e056823c67441e6a3b176ef39bdb981": {
+    "basePhrase": "ran away quickly",
+    "chinese": "茶水间的门一开，那老鼠嗖一下就跑了。",
+    "why": "scurried away 比 ran away quickly 更像小动物短促、快速地移动。原笔记 hurrily 拼写不规范，基础句已改为自然表达。",
+    "index": 45
+  },
+  "practice-02f73f67a417400a91f1d1d8fb8d7202": {
+    "basePhrase": "painful",
+    "chinese": "决定把业务关掉，心里真的挺难受的。",
+    "why": "gut-wrenching 比 painful 更强烈，强调揪心的痛苦，适合艰难决定。轻微不方便或一般的不满不宜用它。",
+    "index": 46
+  },
+  "practice-6ec98253d69041e980f948272e2b4c2c": {
+    "basePhrase": "go a different way",
+    "chinese": "去客户那边的路封了，我们只好绕一下。",
+    "why": "take a detour 在这里指行车绕路，可解释为 go a different way。原 Equivalent switch to unrelated topics 只接近比喻性的“话题绕开”，不能用于当前的字面路况。",
+    "index": 47
+  },
+  "practice-0980136b2a31436db97782889887df5f": {
+    "basePhrase": "It's been great fun",
+    "chinese": "跟你一起干活真的挺开心的。",
+    "why": "It's been a blast 与 It's been great fun 在这里都表示合作很愉快，blast 更热情、更口语。时态用 has been 回顾到此刻为止的合作。",
+    "index": 48
+  },
+  "practice-1ef905a446db47c8b390eef9322c8cad": {
+    "basePhrase": "investigate the details",
+    "chinese": "先把系统具体怎么跑的摸清楚吧。",
+    "why": "dig into the details 是 investigate the details 的口语比喻，强调深入看细节。它通常指主动研究，不能只译成“挖进去”。",
+    "index": 49
+  },
+  "practice-658f9b2e6f274da5af17a074521a052a": {
+    "basePhrase": "boring work",
+    "chinese": "报告要是能自动生成，咱就少干好几个小时的烦人活了。",
+    "why": "drudgery 比 boring work 更突出单调、费劲、让人厌倦的重复劳动。不是所有困难工作都是 drudgery，有挑战的工作也可能有趣。",
+    "index": 50
+  },
+  "practice-6a7e2552d64e4f269150caf617eef135": {
+    "basePhrase": "mayonnaise",
+    "chinese": "午餐那个三明治，给我这份别放蛋黄酱行吗？",
+    "why": "mayo 是 mayonnaise 的口语简称，指同一种酱，点餐时可以直接替换。它更短更随意，并不比完整词更正式。",
+    "index": 51
+  },
+  "practice-baa6c62c7e714f57a1dd916a7a4b9361": {
+    "basePhrase": "hard to understand",
+    "chinese": "这么明显的错怎么一直没人发现，我真想不通。",
+    "why": "hard to fathom 与 hard to understand 在这里都表示难以理解，fathom 更强调难以想象或弄明白深层原因；普通操作说明不懂也不一定要用它。",
+    "index": 52
+  },
+  "practice-0427f23a98d242d89ad7288ef8347c2b": {
+    "basePhrase": "a quick look",
+    "chinese": "新设计我们就匆匆看了一眼。",
+    "why": "a brief glimpse 与 a quick look 都可表示短暂一瞥；glimpse 常暗示没能完整看清。原 Equivalent can see only a few 把时间与数量混在一起，不能直接代入。",
+    "index": 53
+  },
+  "practice-2289abb7b27d4b869579d4206e268962": {
+    "basePhrase": "gathered useful information",
+    "chinese": "客服那些工单里，我们还真整理出些有用的东西。",
+    "why": "gleaned useful information 与 gathered useful information 相近，但 glean 强调从零散材料中一点点获得有价值的信息，不只是把资料收起来。",
+    "index": 54
+  },
+  "practice-544f6a9075274d209b390bd2d67800b0": {
+    "basePhrase": "nervous",
+    "chinese": "投资人现在有点怕了，不太敢再冒险。",
+    "why": "skittish 在这里与 nervous 接近，强调容易受惊、对风险敏感、可能迅速退缩。它比一般担心更有“不稳定、谨慎”的意味。",
+    "index": 55
+  },
+  "practice-f50fc3d81fcd4cb09de988b59f601597": {
+    "basePhrase": "correct a mistake",
+    "chinese": "现在改还来得及，不算太晚。",
+    "why": "right a wrong 与 correct a mistake 都可谈纠错，但前者常涉及不公或造成的伤害，而不只是修个笔误。要确认这里的 wrong 有值得弥补的后果。",
+    "index": 56
+  },
+  "practice-62feb4e00ee540969a0ee0844230ff2a": {
+    "basePhrase": "Wait here",
+    "chinese": "你先等会儿，我查一下订位。",
+    "why": "sit tight 在这里相当于 wait here，语气随意，也暗示先别行动。它未必要求坐着不动；正式接待中 please wait a moment 更稳妥。",
+    "index": 57
+  },
+  "practice-c68279c6a8d24f0494176a264511764c": {
+    "basePhrase": "fit in",
+    "chinese": "我刚来的时候，也一直想尽快融入大家。",
+    "why": "blend in 与 fit in 在这里都可表示融入；blend in 更偏不显得突出，fit in 更偏适应、被接纳。原笔记 get fit in 不能直接接进当前句子。",
+    "index": 58
+  },
+  "practice-ac0fdeb3712b435497397edab4f1f81d": {
+    "basePhrase": "taste",
+    "chinese": "客户晚宴那几道菜，还挺合我口味的。",
+    "why": "palate 与 taste 在谈食物偏好时相关，palate 更偏味觉与品味，稍有讲究。taste 还能指审美或品尝动作，不能都替换成 palate。",
+    "index": 59
+  },
+  "practice-1314c0c3a0fb4e3ab6e8b4ba2b723f85": {
+    "basePhrase": "increase the risk",
+    "chinese": "这要再加罚钱，那风险就更大了。",
+    "why": "raise the stakes 包括让输赢的后果、利害关系变大；increase the risk 只说风险增加。在罚金语境两者接近，但 stakes 不是概率意义上的风险。",
+    "index": 60
+  },
+  "practice-bd4b257340264aaba4c01d5e06640efe": {
+    "basePhrase": "a type of brown mushroom",
+    "chinese": "团队午餐的汤，能加点香菇吗？",
+    "why": "shiitake mushrooms 指香菇这个品种，基础句只是笼统的棕色蘑菇。原 Equivalent Japanese mushroom 不够精确；并不是所有日本蘑菇都叫 shiitake。",
+    "index": 61
+  },
+  "practice-302beaf8480f445884f44ce10061337e": {
+    "basePhrase": "milk bread roll",
+    "chinese": "客户早餐会，我给每个人都订了个牛奶面包。",
+    "why": "pain au lait 是法语菜单名，milk bread roll 是英语说明；两者在这里指这款法式牛奶餐包。不是所有牛奶面包都一定属于同一法式品种。",
+    "index": 62
+  },
+  "practice-ea1ae891436c4e9a83b4baa41f8aa861": {
+    "basePhrase": "people unfamiliar with the field",
+    "chinese": "刚接触的人，听到这些术语很容易懵。",
+    "why": "the uninitiated 指不了解某领域的人，适合替换基础句的描述。outsider 强调圈外身份，可能是专家，也可能不是；不能和 uninitiated 画等号。",
+    "index": 63
+  },
+  "practice-af2e4f1332484e799597cc383daa86b3": {
+    "basePhrase": "attract",
+    "chinese": "这次搞活动，还真拉来了不少新客户。",
+    "why": "reel in 在这里与 attract 相近，但带把目标吸引过来的形象感，更适合非正式营销复盘。它也有钓鱼收线的字面义。",
+    "index": 64
+  },
+  "practice-9b57f33a65f645be92d4dc42f00f2d2e": {
+    "basePhrase": "alert",
+    "chinese": "老有临时需求冒出来，咱一刻都不能松懈。",
+    "why": "keep us on our toes 在这里相当于 keep us alert，强调必须随时准备应对。不是字面踮脚，也不一定表示心情紧张。",
+    "index": 65
+  },
+  "practice-caf2aa76da034eb6bf1cfa67740bbf09": {
+    "basePhrase": "second-to-last",
+    "chinese": "评审排在项目倒数第二周。",
+    "why": "penultimate 就是 second-to-last，表示倒数第二。原 Equivalent last but two 实际指倒数第三，不能使用；这里已纠正，原笔记仍保留在来源中。",
+    "index": 66
+  },
+  "practice-29e5c7fbd677464785cb0eb18ab5ce74": {
+    "basePhrase": "someone with no experience",
+    "chinese": "剪视频我真是从零开始，团队宣传片得找人帮我。",
+    "why": "a complete beginner 是 someone with no experience 的自然名词短语。原 Equivalent green hand 在现代日常英语中不如 beginner 常用，别为了进阶换成更生硬的说法。",
+    "index": 67
+  },
+  "practice-6f37e356fd524a02bf843becb24ccb86": {
+    "basePhrase": "breaking up",
+    "chinese": "你这声音一断一断的，能再说一遍吗？",
+    "why": "choppy 形容声音断续不流畅；is breaking up 描述音频正在断断续续。当前句子可改写，但它们不是同一词性，不能在所有位置互换。",
+    "index": 68
+  },
+  "practice-eed6230e712f4d50b1e557f6d84648cb": {
+    "basePhrase": "a weakness",
+    "chinese": "现在这个设计，错误处理这一块还比较弱。",
+    "why": "a weak spot 与 a weakness 在这里都指薄弱环节，spot 更强调具体的一部分。原笔记 weakpoint 通常应分写 weak point。",
+    "index": 69
+  },
+  "practice-cfebd31bf45a44e0b33264533be0425a": {
+    "basePhrase": "very knowledgeable about",
+    "chinese": "分布式系统这块，她懂得挺透的。",
+    "why": "well versed in 与 very knowledgeable about 都表示熟悉、有知识；well versed in 常用于某领域。good at 更强调做得好，知识丰富不一定等于所有实操都擅长。",
+    "index": 70
+  },
+  "practice-15d5f1de844b499bac61beebfa4815f7": {
+    "basePhrase": "developed into",
+    "chinese": "那个原型后来还真做成了一款挺成功的产品。",
+    "why": "blossomed into 与 developed into 都表示发展成，blossom 更带良好成长、逐渐成熟的积极意味。描述恶化时不适用。",
+    "index": 71
+  },
+  "practice-21434d30601d46c6b83a41276894a336": {
+    "basePhrase": "the details",
+    "chinese": "咱开始细聊上线计划怎么落地吧。",
+    "why": "the nitty-gritty 指实际操作中的具体细节，比 the details 更口语、更有落地感。不是所有无关紧要的小细节都值得讨论。",
+    "index": 72
+  },
+  "practice-5cb6a63df50148c8b4de508703e7accf": {
+    "basePhrase": "destroyed everything in its path",
+    "chinese": "那场风暴一路把东西都毁了，配送也全乱了。",
+    "why": "leveled everything in its path 表示把沿途事物夷平，比 destroyed 更具体。原 Equivalent clear obstacles 是清除障碍，不是灾害毁坏，不能直接替换。",
+    "index": 73
+  },
+  "practice-ab17c5a9ccc14bf694329fd4243dba2c": {
+    "basePhrase": "fraudster",
+    "chinese": "搞了半天，那个机会就是骗子设的套。",
+    "why": "con artist 与 fraudster 都指诈骗者，con artist 常突出利用信任与骗术。原 Equivalent liar 只是说谎者，未必实施诈骗，不能视为精确同义词。",
+    "index": 74
+  },
+  "practice-147b1cb4f2c84ae0be7c5c455738dc9a": {
+    "basePhrase": "criminals",
+    "chinese": "我们下个游戏，讲一帮亡命之徒躲追捕的故事。",
+    "why": "outlaws 与 criminals 有重叠，但 outlaws 常带被通缉、逃避当局的故事色彩。普通违法者未必符合这种叙事设定。",
+    "index": 75
+  },
+  "practice-0ddddb5a844f4efa9b994761e9e264f3": {
+    "basePhrase": "forced into",
+    "chinese": "这个功能放进来，有点硬塞的感觉。",
+    "why": "shoehorned into 比 forced into 更形象地表示勉强塞进、不自然地凑入。原笔记 unmatched 只是“不匹配”，没有强行加入这一层动作意味。",
+    "index": 76
+  },
+  "practice-2e81fa03288b400a8cc1e2c9146b30a9": {
+    "basePhrase": "scheduled for",
+    "chinese": "这个版本打算下个月发。",
+    "why": "slated for 与 scheduled for 在这里都表示计划安排在某个时间。slated 并不保证不会变；原 Equivalent plan to do 需要改语法才能放进这个被动句。",
+    "index": 77
+  },
+  "practice-e1826cea6059482f920d99f601e5841f": {
+    "basePhrase": "became a reality",
+    "chinese": "计划做了这么多年，总算落地了。",
+    "why": "came to fruition 与 became a reality 都表示计划终于实现，前者带努力结出成果的意味。bear fruit 与主语、时态的搭配不同，不能原样替换。",
+    "index": 78
+  },
+  "practice-9c9fad38939d41e385dd6fe4125264ec": {
+    "basePhrase": "camera work",
+    "chinese": "咱公司那个片子，镜头拍得还挺有风格的。",
+    "why": "cinematography 比 camera work 更专业，涵盖动态影像的摄影、构图、光影等。photography 常指静态照片摄影，不能在所有影片语境直接替代。",
+    "index": 79
+  },
+  "practice-6bdaf5aec8a042bcbc473130e19b0b1d": {
+    "basePhrase": "frantic rush",
+    "chinese": "临下班来这么个急需求，整个下午都在救火。",
+    "why": "fire drill 在这里是工作中的比喻，指临时、急迫又混乱的一阵忙乱；frantic rush 接近其含义。原 Equivalent pain 太宽泛，不能说明具体情境。",
+    "index": 80
+  },
+  "practice-f3af224b38fc40299b1c56edf9eb14cc": {
+    "basePhrase": "temporary alternative",
+    "chinese": "先有个办法能绕过去，就是得手动重启。",
+    "why": "workaround 比 temporary alternative 更明确：绕过已知问题，让流程先跑起来；不一定修复根因。plan B 是备用计划，即便没出故障也可能存在。",
+    "index": 81
+  },
+  "practice-560ab658709840bab17f11efb85cfd22": {
+    "basePhrase": "lost points",
+    "chinese": "表交晚了，结果还被扣分了。",
+    "why": "got dinged 在本句指受到扣分处罚，与 lost points 接近；其他语境也可指被批评或被收费。不能在任何出现 ding 时都理解成扣分。",
+    "index": 82
+  },
+  "practice-09a49c3aa2e746f8898bd04516207211": {
+    "basePhrase": "a clever solution to the problem",
+    "chinese": "她想了个巧办法，把这个问题绕过去了。",
+    "why": "a clever way around the problem 强调绕开障碍，a clever solution 可能让人以为已根治问题。前者更符合暂时避开、另走一条路的情况。",
+    "index": 83
+  },
+  "practice-c2d1380466ce4109be506a81ff587c24": {
+    "basePhrase": "encountered",
+    "chinese": "排期的时候，碰上了几个小问题。",
+    "why": "ran into 与 encountered 在这里都表示意外遇到问题，ran into 更口语。它也能指偶遇某人，不要只记成“遇到的问题”这个名词解释。",
+    "index": 84
+  },
+  "practice-8d73631b32474c5db01c6b06a529008e": {
+    "basePhrase": "clarified my role and responsibilities",
+    "chinese": "谁负责什么，我先把自己这块说清楚了。",
+    "why": "made sure my role and responsibilities were clear 强调确保结果清楚；clarified 侧重澄清动作。原 Equivalent“明确目标”与职责不是同一内容，不能直接当等义句。",
+    "index": 85
+  },
+  "practice-de0181ef512f412cb99ca6be80a15491": {
+    "basePhrase": "allowed more time in the schedule",
+    "chinese": "排期里我们多留了点时间，免得出状况。",
+    "why": "added some extra time 与 allowed more time 在这里都指预留余量；这组主要练排期的自然表达，没有必要假设其中一组一定更高级。",
+    "index": 86
+  },
+  "practice-15dfae9b5bf448b68b34048c9e30a704": {
+    "basePhrase": "problems that might stop us from meeting the milestones",
+    "chinese": "哪些问题可能拖住里程碑，我先列了出来。",
+    "why": "risks that could prevent us from reaching the milestones 强调尚未发生的风险；基础句 problems that might… 意义接近，但 risk 更适合风险清单，不能把已发生问题和潜在风险完全混同。",
+    "index": 87
+  },
+  "practice-b2870c1268e041a89d86f1a5475f3c06": {
+    "basePhrase": "divide up the work",
+    "chinese": "大任务先拆一下，每个阶段要干什么都看看。",
+    "why": "break down the work 在这里指把任务分成便于理解的小部分；divide up 还可能被理解成把任务分配给不同的人。这里先拆结构，未必已分配负责人。",
+    "index": 88
+  },
+  "practice-590942ea0e3f43e783b61a7f9d472d00": {
+    "basePhrase": "your opinions about",
+    "chinese": "项目这几块，我都想听听你怎么看。",
+    "why": "your input on 与 your opinions about 在这里接近，但 input 还可包括建议、信息和专业贡献。不是只征求赞成或反对。",
+    "index": 89
+  },
+  "practice-a8914cb4e0bc4fb89c9d49778fdad2a1": {
+    "basePhrase": "summarize the major milestones",
+    "chinese": "细节先不说，我先把几个大节点过一下。",
+    "why": "outline the major milestones 与 summarize… 都可指概述里程碑；outline 强调勾出结构与要点。原 Equivalent“分析关键点”不等于对里程碑作概述。",
+    "index": 90
+  },
+  "practice-b3c9a48338e14f509bbdc98148e1c3f6": {
+    "basePhrase": "main people affected by the project",
+    "chinese": "这个项目牵涉到哪些关键的人，咱先确认一下。",
+    "why": "key stakeholders 比 main people affected… 更紧凑，也包括能影响项目、对结果有权益的组织。不是所有相关人员都同样关键。",
+    "index": 91
+  },
+  "practice-f89923e2b81346c6a1c4043362fda665": {
+    "basePhrase": "very advanced",
+    "chinese": "实验室这套设备，技术确实挺先进的。",
+    "why": "state-of-the-art 比 very advanced 更强，指当前先进水平。原 Equivalent greatest 是笼统最高级，不能据此声称设备在所有维度都最好。",
+    "index": 92
+  },
+  "practice-6b5d8e2d5bee452baccc7640860949f6": {
+    "basePhrase": "a very high degree of flexibility",
+    "chinese": "这个平台能灵活配置的地方，真的挺多。",
+    "why": "unmatched flexibility 比 a very high degree of flexibility 更强，声称灵活性无可匹敌。有营销夸张风险；没有比较证据时，基础句可能更合适。",
+    "index": 93
+  },
+  "practice-eac6cecb3e0742939e99f0b7d3526fa6": {
+    "basePhrase": "about",
+    "chinese": "你们提的这个时间安排，我有个问题。",
+    "why": "with respect to 与 about 在这里都是“关于”，前者更正式。一般同事沟通用 about 更简洁；练习不意味着正式版本总更自然。",
+    "index": 94
+  },
+  "practice-b48f1d7402f843438088cd35c38e0486": {
+    "basePhrase": "worries our customers most",
+    "chinese": "客户最愁的到底是什么？",
+    "why": "keeps our customers up at night 是 worries our customers most 的习语说法，指让客户担忧的问题。原 Equivalent exciting things 与本句意思相反，不能使用。",
+    "index": 95
+  },
+  "practice-4ce4b6ea612e4a008d97470218a543c4": {
+    "basePhrase": "length of service",
+    "chinese": "升职总不能光看谁待得久吧。",
+    "why": "seniority 在这里与 length of service 接近，也可能关联资历或等级；不自动等于能力。当前讨论以任职年限为主，才适合这组替换。",
+    "index": 96
+  },
+  "practice-1af7242144c54691be2ebc686b558295": {
+    "basePhrase": "are proud of",
+    "chinese": "能把软件做得可靠，这点我们还挺自豪的。",
+    "why": "pride ourselves on 与 are proud of 都可表示以某事为傲；pride…on 更强调团队对自己的标准和评价。两者后面都可接 delivering，但介词不同。",
+    "index": 97
+  },
+  "practice-bd2feb6fe9e54693a422db176e84879d": {
+    "basePhrase": "asked to",
+    "chinese": "系统接下来会让用户重设密码。",
+    "why": "prompted to 在软件界面语境比 asked to 更明确表示系统弹出提示、引导采取行动。hint 只是暗示，不是让用户执行操作的同一语法结构。",
+    "index": 98
+  },
+  "practice-5865eb40fe0145f6ae726ffc6931e339": {
+    "basePhrase": "let me know",
+    "chinese": "计划变了，记得也跟我说一声。",
+    "why": "keep me in the loop 比 let me know 更强调持续被纳入信息流，而不是只通知一次。一次性结果可用 let me know；长期项目更新更适合前者。",
+    "index": 99
+  },
+  "practice-53d9bc4ec4904a0ea821a2f446a6fabe": {
+    "basePhrase": "be included in",
+    "chinese": "后面再聊这个，也把我拉上吧。",
+    "why": "be looped in on 与 be included in 在讨论语境都可表示被纳入；looped in 还突出获取必要信息。被抄送并不必然意味着有决策权。",
+    "index": 100
+  },
+  "practice-7f56b7e7328542738c3fd46a22a39f1b": {
+    "basePhrase": "very little time",
+    "chinese": "要全部看完就给这么点时间？挺赶的啊。",
+    "why": "a tight turnaround 指从接到任务到交付的时间很短，与 very little time 在这里接近。tough situation 是泛指困难处境，并没有明确时间压力。",
+    "index": 101
+  },
+  "practice-4d91e4b5041945b88ff195ee4a6e1234": {
+    "basePhrase": "come under",
+    "chinese": "这事儿算我负责的吗？",
+    "why": "fall within the scope of 与 come under 在职责语境都可表示归属范围；前者更明确、更正式。be someone's duty 需重写整句，不能逐词塞进此处。",
+    "index": 102
+  },
+  "practice-7c534c9c0ea44e8ca7624f7ece6e4e7f": {
+    "basePhrase": "said sorry repeatedly",
+    "chinese": "供应商为了这事，一个劲儿地道歉。",
+    "why": "apologized profusely 与 said sorry repeatedly 接近，但 profusely 强调大量、强烈表达歉意，不只计算次数。普通说一次 sorry 语气弱得多。",
+    "index": 103
+  },
+  "practice-64585433e9db4ef2a2d0affecd8ccb14": {
+    "basePhrase": "a good chance",
+    "chinese": "这可是个把产品做好点的大机会。",
+    "why": "a massive opportunity 比 a good chance 更强调机会的规模与价值。它不是对成功概率作统计判断，也并不保证一定成功。",
+    "index": 104
+  },
+  "practice-5b3e536cd5624eb18b95332e9ed85f3c": {
+    "basePhrase": "keep loyal customers interested",
+    "chinese": "老客户这边，咱得想想怎么让他们继续参与。",
+    "why": "engage loyal customers 与 keep…interested 相关，还可能包括互动和使用。原 Equivalent attract buyers 更偏吸引购买者，不能混同留存和获客。",
+    "index": 105
+  },
+  "practice-3ba0eb9f9ce04bb6ada5bc5e0cc22b38": {
+    "basePhrase": "outdated products",
+    "chinese": "那些老掉牙的产品，我们正换成更简单的。",
+    "why": "outmoded products 与 outdated products 在这里都表示过时的产品；outmoded 更强调方式或设计不再合时宜。things 太宽泛，需按句中产品语境调整。",
+    "index": 106
+  },
+  "practice-4fd6fd8c2258462abd14a66d9fd6f502": {
+    "basePhrase": "blocked by",
+    "chinese": "迁移卡住了，原来有个依赖根本没写进文档。",
+    "why": "stymied by 与 blocked by 在这里都表示被阻碍；stymied 常带进展受挫、不知如何继续的感觉。只是稍有延迟未必需要这么强的词。",
+    "index": 107
+  },
+  "practice-0cb65e8d477145328c5a1644cda50ac7": {
+    "basePhrase": "changed a lot",
+    "chinese": "这十年，变化真是太大了。",
+    "why": "changed enormously 与 changed a lot 在这里意义接近，前者更强调变化幅度大。描述过去十年的延续影响时，两句都保留 has changed。",
+    "index": 108
+  },
+  "practice-4a0b471286c94d4eb08aeebeed44e0da": {
+    "basePhrase": "ready to",
+    "chinese": "团队已经准备好了，就等新产品上线了。",
+    "why": "poised to 与 ready to 都可表示准备好做某事；poised 常带即将行动、条件已就绪的意味。它不一定是团队主动承诺的正式发布日期。",
+    "index": 109
+  },
+  "practice-60a7d5b132ea4472a800cbea1d562f1e": {
+    "basePhrase": "keep things as they are",
+    "chinese": "什么都不做，那就还是老样子。",
+    "why": "maintain the status quo 与 keep things as they are 都指维持现状；status quo 是现状这个名词，不可直接替换整个动词短语。",
+    "index": 110
+  },
+  "practice-e93312c29f724cdabeb9426fd139c9f7": {
+    "basePhrase": "strong supporters of",
+    "chinese": "我们一直觉得，得动手试试才能学到东西。",
+    "why": "big believers in 与 strong supporters of 都表达支持某理念；believers 更强调相信其价值。big fan 更像喜欢，不完全等于对方法有效性有信念。",
+    "index": 111
+  },
+  "practice-67d498286e234359a147b5bf6f18e445": {
+    "basePhrase": "be consistent with",
+    "chinese": "这份方案得跟咱们的设计原则对得上。",
+    "why": "align with 与 be consistent with 在这里都表示一致、契合；align 还可能用于主动调整方向。match the rule 是过于简化的笔记说法。",
+    "index": 112
+  },
+  "practice-69763afc5f984470bd7f502df127cf9b": {
+    "basePhrase": "excellent",
+    "chinese": "性能这块，我们想做到同类里最好的那一档。",
+    "why": "best-in-class 比 excellent 更具体、更强，声称在同类产品中领先。没有对照评测时，不应仅因为语气好听就这样宣称。",
+    "index": 113
+  },
+  "practice-d55d97acfc474adf9e9b1a9bc5407219": {
+    "basePhrase": "a welcoming team that works together",
+    "chinese": "你来了之后，会在一个互相接纳、一起做事的团队里。",
+    "why": "inclusive, collaborative 更明确概括包容与协作两个特点。原 Equivalent“团队的一份子”缺失这些特征，不能作为整段形容词的精确同义表达。",
+    "index": 114
+  },
+  "practice-b57f38f983514731b97ce0c58fbb1c8f": {
+    "basePhrase": "includes",
+    "chinese": "这个岗位从设计到开发、测试都要做。",
+    "why": "encompasses 与 includes 在此都表示涵盖，前者更强调覆盖较完整的范围，语气稍正式。include 更常用，也完全正确。",
+    "index": 115
+  },
+  "practice-f95919f552db44bb825a3a494ebdeded": {
+    "basePhrase": "excellent products",
+    "chinese": "我们想给客户做出同类里一流的产品。",
+    "why": "best-in-class products 比 excellent products 多了同类比较的含义。“好产品”只是一种宽泛解释，不能支持领先同类的事实判断。",
+    "index": 116
+  },
+  "practice-1b264b0102084365b696e66ec82dfb22": {
+    "basePhrase": "matched with",
+    "chinese": "入职后，会给你配一位有经验的导师。",
+    "why": "paired with 与 matched with 在这里都表示安排搭配；paired 往往指一对一。partner with 可指主动合作，不一定是组织安排导师。",
+    "index": 117
+  },
+  "practice-89ccd51a34464488a0a0839bbb1dbd9e": {
+    "basePhrase": "different viewpoints",
+    "chinese": "大家看问题的角度不一样，点子也会更多。",
+    "why": "diverse perspectives 与 different viewpoints 在这里接近，diverse 常突出多种背景、经验带来的视角。并不等于每个想法都正确。",
+    "index": 118
+  },
+  "practice-91771cb555434776a447f5ae7308a664": {
+    "basePhrase": "start",
+    "chinese": "咱先简单介绍一下自己，开始吧。",
+    "why": "kick things off 与 start 在这里都表示开始，前者更活泼、更口语。不是只有正式开幕才可以使用。",
+    "index": 119
+  },
+  "practice-1ea7dcdeeed747da8e6eafb712f58420": {
+    "basePhrase": "keep talented people at the company",
+    "chinese": "我们不光想招到好的人，也想把人培养好、留下来。",
+    "why": "retain exceptional people 比 keep…at the company 更适合招聘与人才管理，exceptional 还比 talented 更强。原 Equivalent“有生命力的公司”不是这段话的同义表达。",
+    "index": 120
+  },
+  "practice-de77208bfd0840139e2470e10839f045": {
+    "basePhrase": "a better understanding of my field",
+    "chinese": "做完这个项目，我应该能把这块摸得更透。",
+    "why": "a higher level of expertise 比 a better understanding… 更强调专业熟练程度。两者方向相同，但 expertise 不只是听懂知识，还包含积累的能力。",
+    "index": 121
+  },
+  "practice-c0f557143c1c46d592d7db80c956fb63": {
+    "basePhrase": "further develop",
+    "chinese": "这块业务知识和技术，我还想接着往深里学。",
+    "why": "build on 比 further develop 更强调在已有基础上继续积累。原 Equivalent“学到知识”未体现已有基础，不能在初次接触时随便用 build on。",
+    "index": 122
+  },
+  "practice-9de0e57ba80f43beaecfc443285e8f55": {
+    "basePhrase": "someone who can make a real contribution to the team",
+    "chinese": "我准备好了，想真正帮团队把事做起来。",
+    "why": "a fully contributing team member 强调能充分参与并产生成果，与基础句接近。不是只表达态度好或“给力”，也不是保证任何任务都独立完成。",
+    "index": 123
+  },
+  "practice-157e2ed90d584fdeb20b353983bf9372": {
+    "basePhrase": "a small product team",
+    "chinese": "我是在一个挺小的产品小组里做事。",
+    "why": "a small product squad 与 a small product team 接近，squad 常用于敏捷组织的小团队，但具体定义依公司而异。原 Equivalent“团队的一份子”描述成员身份，不是团队类型。",
+    "index": 124
+  },
+  "practice-df318c154276401095291d7d31cc455c": {
+    "basePhrase": "keep going",
+    "chinese": "虽然碰了个坎，我们还是决定继续往前做。",
+    "why": "push onwards 与 keep going 在这里都表示继续推进，push 更有克服阻力、坚持向前的力度。并不意味着应该忽视风险硬做。",
+    "index": 125
+  },
+  "practice-1ce8580b5f064cf4ac6eed02427d8bde": {
+    "basePhrase": "a good understanding of",
+    "chinese": "基础这块，我掌握得还挺扎实的。",
+    "why": "a firm grasp of 比 a good understanding of 更强调牢固、能把握要点。know 太笼统，还需调整句型，不能直接替换名词短语。",
+    "index": 126
+  },
+  "practice-9626a65582fc41798b04ed5295453107": {
+    "basePhrase": "done a little",
+    "chinese": "平面设计我也玩过一点，但真不算专业。",
+    "why": "dabbled in 与 done a little 在这里都表示做过一点，dabble 更暗示浅尝、探索或非主业。原 Equivalent know 没有熟练程度信息，很容易夸大能力。",
+    "index": 127
+  },
+  "practice-42e9b5131cd8496ab125d0d303000076": {
+    "basePhrase": "a natural ability for",
+    "chinese": "她解决复杂问题，还真挺有天赋的。",
+    "why": "an aptitude for 与 a natural ability for 都表示某方面的潜质或天赋；can 仅表示能做，没有这层优势。两种结构后面都可接 solving。",
+    "index": 128
+  },
+  "practice-9533760af0484bf8a9b0b9f5ecd8b178": {
+    "basePhrase": "strongly committed to",
+    "chinese": "无障碍这块，我们是真想长期做好。",
+    "why": "deeply invested in 在这里与 strongly committed to 接近，强调重视并投入精力、资源。have been doing 只说明持续在做，无法表达承诺和投入程度。",
+    "index": 129
+  },
+  "practice-fcf5e3510dd74bf19c0ffe88d1303246": {
+    "basePhrase": "use",
+    "chinese": "现成的基础设施能用，咱就别再造一遍了。",
+    "why": "leverage 与 use 在这里都可表示利用，leverage 更突出发挥现有资源的优势。日常同事沟通用 use 往往更直白；不是词越商务越好。",
+    "index": 130
+  },
+  "practice-c93f49514e854469aea58bbb8be7a251": {
+    "basePhrase": "keen to",
+    "chinese": "我挺想多跟大家学学的。",
+    "why": "eager to 与 keen to 都表达积极、迫切地想做。相比 want to 更有热情，但无需为了显得专业而在每句话里加重语气。",
+    "index": 131
+  },
+  "practice-c15c27f13609488b85e11eaf957f32cd": {
+    "basePhrase": "allowed to",
+    "chinese": "团队里的人，自己有权做决定。",
+    "why": "empowered to 比 allowed to 多了被授予权力、支持独立决策的意味。只是不禁止某动作，未必能说 empowered。",
+    "index": 132
+  },
+  "practice-6b41b0f3261745deb83668f4021f5b72": {
+    "basePhrase": "promising new",
+    "chinese": "我们在面试一位最近开始冒头、挺有潜力的设计师。",
+    "why": "up-and-coming 比 new 多了正在崭露头角、有发展潜力的意思。本句基础表达用 promising new 补上潜力；原 Equivalent new 单独替换会丢失核心含义。",
+    "index": 133
+  },
+  "practice-53a953273bb644b99d860baaa619bbd2": {
+    "basePhrase": "connect the new module to",
+    "chinese": "新模块得接进现有服务里，一起跑起来。",
+    "why": "integrate…into 比 connect…to 更强调成为系统的一部分、能协同运作；不只是接口连通。原笔记 combine 需要改写主语和宾语结构。",
+    "index": 134
+  },
+  "practice-5da2103033e24ddba3bf84dc0f4a1e6b": {
+    "basePhrase": "committed to our goal of making",
+    "chinese": "让更多人用得上软件，是我们一直想做的事。",
+    "why": "on a mission to 比 committed to our goal of… 更有使命感。因为后者用 making，替换整段时要连带改后面的动词；不能把 is doing sth. 当成同义词。",
+    "index": 135
+  },
+  "practice-ebddf0f412dc436592aff87e30c68664": {
+    "basePhrase": "an engineer with substantial experience",
+    "chinese": "她以前做后端的，经验还挺丰富。",
+    "why": "an experienced engineer 与 an engineer with substantial experience 在这里含义接近，前者更简练。它本身不说明经验都来自哪一领域，后面的 background in backend systems 才补足背景。",
+    "index": 136
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "giblets": {
+    "why": "giblets 指鸡、火鸡等禽类的心、肝、胗等食用内脏，包装里有时也包含脖子；不是所有动物内脏的统称。",
+    "variation": "买整鸡或火鸡时，常会看到 remove the giblets（取出内脏）的提示。offal 的范围更广，也包括其他动物的内脏。",
+    "fix": "不要把鸡杂说成 chicken garbage；用 giblets。",
+    "example": "Check inside the chicken and remove the giblets first.",
+    "exampleCn": "看看鸡肚子里面，先把内脏取出来。"
+  },
+  "grease": {
+    "why": "这里的 grease 是做饭后留在锅里的油脂、油污，不是在说一瓶新鲜食用油。",
+    "variation": "oil 常指液态油；grease 常突出油腻、黏附或用过的油脂。汽车保养中的 grease 也可以指润滑脂。",
+    "fix": "擦掉锅里的油污用 wipe off the grease，比 wipe off the oil dirt 自然。",
+    "example": "Wipe the grease off the pan before you wash it.",
+    "exampleCn": "洗锅前先把油脂擦掉。"
+  },
+  "mason jar": {
+    "why": "mason jar 是带螺纹口、能拧紧盖子的玻璃罐，常用于储存、腌制食物或装隔夜燕麦。",
+    "variation": "泛指玻璃罐可以说 glass jar；强调这种可密封的罐型时说 mason jar。",
+    "fix": "不要把“罐子”一律译成 can；金属罐常用 can，图中这种玻璃容器用 jar。",
+    "example": "I made overnight oats in a mason jar.",
+    "exampleCn": "我用玻璃密封罐做了隔夜燕麦。"
+  },
+  "dumpster": {
+    "why": "dumpster 指室外的大型垃圾箱，常见于公寓、商店后门等地方；家里的小垃圾桶通常叫 trash can。",
+    "variation": "纸箱通常要先压平再按当地要求回收。表达地点可以说 by the dumpster，不一定指丢进箱里。",
+    "fix": "不要直译成 big garbage box；这种大型垃圾箱用 dumpster。",
+    "example": "There's a dumpster behind the building.",
+    "exampleCn": "楼后面有个大型垃圾箱。"
+  },
+  "mayo": {
+    "why": "mayo 是 mayonnaise 的常用口语简称，指蛋黄酱。点三明治时可以直接说 no mayo。",
+    "variation": "看图也可能想到其他白色酱料；这里练的是蛋黄酱。菜单上的 mayo 和 mayonnaise 是同一种酱。",
+    "fix": "不要按中文拼成 egg yellow sauce；直接说 mayo 或 mayonnaise。",
+    "example": "Could I get that without mayo?",
+    "exampleCn": "这份可以不放蛋黄酱吗？"
+  },
+  "shiitake mushrooms": {
+    "why": "shiitake mushrooms 是香菇，不是所有棕色蘑菇的统称。",
+    "variation": "干香菇叫 dried shiitake mushrooms；鲜香菇叫 fresh shiitake mushrooms。",
+    "fix": "不要把“香”直译成 fragrant 来命名品种；点菜或买菜时用 shiitake mushrooms。",
+    "example": "Let's add some shiitake mushrooms to the soup.",
+    "exampleCn": "汤里加点香菇吧。"
+  },
+  "pain au lait": {
+    "why": "pain au lait 是法语名称，指松软的牛奶面包，常见小餐包造型；在法式面包店菜单上可能看到。",
+    "variation": "一般英语对话可以说 a milk bread roll；pain au lait 更适合指菜单上的法式品种。",
+    "fix": "不是所有面包都叫 toast；完整的小餐包可以叫 a roll。",
+    "example": "I'll have a pain au lait, please.",
+    "exampleCn": "我要一个牛奶面包，谢谢。"
+  }
+}

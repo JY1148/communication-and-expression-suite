@@ -1,0 +1,4636 @@
+[
+  {
+    "id": "starter-0",
+    "version": "casual",
+    "term": "slip someone’s mind",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-1",
+    "version": "casual",
+    "term": "double-check",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-2",
+    "version": "casual",
+    "term": "on the tip of my tongue",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-3",
+    "version": "casual",
+    "term": "commit to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-4",
+    "version": "casual",
+    "term": "I’d love to, but…",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-5",
+    "version": "casual",
+    "term": "One more thing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-6",
+    "version": "pro",
+    "term": "clarify whether",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-6",
+    "version": "casual",
+    "term": "clarify whether",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-7",
+    "version": "pro",
+    "term": "a heads-up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-7",
+    "version": "casual",
+    "term": "a heads-up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-8",
+    "version": "pro",
+    "term": "prioritize",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "starter-8",
+    "version": "casual",
+    "term": "prioritize",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-0",
+    "version": "pro",
+    "term": "refocus on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-0",
+    "version": "casual",
+    "term": "refocus on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-1",
+    "version": "pro",
+    "term": "nail down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-1",
+    "version": "casual",
+    "term": "nail down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-2",
+    "version": "pro",
+    "term": "make sure",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-2",
+    "version": "casual",
+    "term": "make sure",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-3",
+    "version": "pro",
+    "term": "walk someone through",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-3",
+    "version": "casual",
+    "term": "walk someone through",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-4",
+    "version": "pro",
+    "term": "at capacity",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-4",
+    "version": "casual",
+    "term": "at capacity",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-5",
+    "version": "pro",
+    "term": "workaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-5",
+    "version": "casual",
+    "term": "workaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-6",
+    "version": "pro",
+    "term": "I’m concerned…",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-6",
+    "version": "casual",
+    "term": "I’m concerned…",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-7",
+    "version": "pro",
+    "term": "short of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-7",
+    "version": "casual",
+    "term": "short of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-8",
+    "version": "pro",
+    "term": "make a contribution",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-8",
+    "version": "casual",
+    "term": "make a contribution",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-9",
+    "version": "pro",
+    "term": "break something down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-9",
+    "version": "casual",
+    "term": "break something down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-10",
+    "version": "pro",
+    "term": "I missed the last part",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-10",
+    "version": "casual",
+    "term": "I missed the last part",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-11",
+    "version": "pro",
+    "term": "a tight turnaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-a-11",
+    "version": "casual",
+    "term": "a tight turnaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-0",
+    "version": "casual",
+    "term": "crop up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-1",
+    "version": "casual",
+    "term": "break up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-2",
+    "version": "casual",
+    "term": "firm up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-3",
+    "version": "casual",
+    "term": "a mouthful",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-4",
+    "version": "casual",
+    "term": "have a soft spot for",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-5",
+    "version": "casual",
+    "term": "sit tight",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-6",
+    "version": "casual",
+    "term": "wrap up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-7",
+    "version": "casual",
+    "term": "brush up on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-8",
+    "version": "casual",
+    "term": "workaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-9",
+    "version": "casual",
+    "term": "follow up on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-10",
+    "version": "casual",
+    "term": "one-off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "adapt-b-11",
+    "version": "casual",
+    "term": "without cilantro",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-428848ff24c242f7b8bf11f9495a9819",
+    "version": "casual",
+    "term": "nail down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-69336382ad09459697df0edce3b89192",
+    "version": "casual",
+    "term": "pop out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a025988a9c60476297c54ebb5742dd6f",
+    "version": "casual",
+    "term": "brush up on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f04807e0400b46e0bc1505283a2f1be2",
+    "version": "casual",
+    "term": "intermittent",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-19eaf70ceb794913be6ac764d2900ff0",
+    "version": "casual",
+    "term": "mantra",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8fff7e3dcc944c899df3a342f186aaae",
+    "version": "casual",
+    "term": "fine-tuning",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-48f701872edc43b4a860f747db39a43c",
+    "version": "casual",
+    "term": "cropped up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9b61d59876b34e4d85a0b54b548bcad4",
+    "version": "casual",
+    "term": "loosely connected topics",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0977a6fcf95649ca858b8f9eb236bd50",
+    "version": "casual",
+    "term": "significantly improve my skills",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-707280a21b78429290c63a5ba44b517f",
+    "version": "casual",
+    "term": "gained invaluable experience",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cbc1a63d78754c129d3b16910c732b20",
+    "version": "casual",
+    "term": "keep learning",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-bd33b49731b24ca3a1d29a44d08553af",
+    "version": "casual",
+    "term": "immune to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e6dd17ae023445ccbea3d03a63997b24",
+    "version": "casual",
+    "term": "ahead of schedule",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5cb0057107e6416d8d2236037982a3a4",
+    "version": "casual",
+    "term": "collaborate closely with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7b8333e2e0234b5fafe967d0daef2647",
+    "version": "casual",
+    "term": "curry favor with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-17d939db286044faa99f1d1a2419c863",
+    "version": "casual",
+    "term": "steer clear of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a80e0c7b9f074583ac7fa7317e73ad71",
+    "version": "casual",
+    "term": "vaguely worded",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e88515d1fef545c4bd7da48db68c42cb",
+    "version": "casual",
+    "term": "threw us a bone",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-32ba44d659904b39b430ef25ca1123fd",
+    "version": "casual",
+    "term": "doubling down on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d882dde075e748358cddbce57944f05e",
+    "version": "casual",
+    "term": "circled the wagons",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7942f275eb634e24b6db50c027575e72",
+    "version": "casual",
+    "term": "cul-de-sac",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cef4d1e522db410f847d6547655e1d4d",
+    "version": "casual",
+    "term": "angle brackets",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8430dcb32a504eeb85ff76ed63490aa2",
+    "version": "casual",
+    "term": "quotation marks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-90d8541685054288994ce8326f5ac51f",
+    "version": "casual",
+    "term": "colon",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a0320ff7c9b24015812572cd40359369",
+    "version": "casual",
+    "term": "step in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3c4e9cfc535b483faab34be95119cf23",
+    "version": "casual",
+    "term": "strategic intent",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4fe50cb25ee04bf3a7613c7d5aecb821",
+    "version": "casual",
+    "term": "quite a mouthful",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-de72e22d3cf9404a9db142cb39e75c37",
+    "version": "casual",
+    "term": "runaway success",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6d01ce3aacea4befa63a15bb2f82d2be",
+    "version": "casual",
+    "term": "the team's hard work",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0249b7d3d8aa47f18086f8bd8d1845f7",
+    "version": "casual",
+    "term": "bucking the downward trend",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b85b18210b494c2ba0c3b466df8b8c8d",
+    "version": "casual",
+    "term": "abuzz with speculation",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3112189167cb49908b823cc224b95dae",
+    "version": "casual",
+    "term": "snubbed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d71a2ddaaf5b449bb7c4380590b22a9f",
+    "version": "casual",
+    "term": "smdh",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-99f1fa75d92047c7b05b016d652d91e6",
+    "version": "casual",
+    "term": "giblets",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9f69282426e6422d9766ed7584aa3242",
+    "version": "casual",
+    "term": "grease",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-be8c8a96b4a6461085c261a97c7fffe6",
+    "version": "casual",
+    "term": "fixate on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1f6819e84a084823ab5534bcd53d1ebe",
+    "version": "casual",
+    "term": "scapegoat",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f46c71b0157b4142ba651541d58571f4",
+    "version": "casual",
+    "term": "notched another success",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-12cfd42b7f214338aa77cd9f00fe14b8",
+    "version": "casual",
+    "term": "heyday",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cad426ae87cd4991a73d192a1fce9ed0",
+    "version": "casual",
+    "term": "dying breed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f576a5b217404ca6ad4b4a9f1d3e3a1b",
+    "version": "casual",
+    "term": "burgeoning",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-523d687a88ca4aca8ce291416e7d7db1",
+    "version": "casual",
+    "term": "second-guess",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9ea61c506aa542148b015e7f79ae3548",
+    "version": "casual",
+    "term": "a healthy amount of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-bc1d2fe2b700491bb68e48a8781abdf3",
+    "version": "casual",
+    "term": "liberal arts",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6514eb5d7ede4907abb7be03cc3bf117",
+    "version": "casual",
+    "term": "step up our efforts",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3dcd7f4d20f6497287964a86b78f7156",
+    "version": "casual",
+    "term": "henchmen",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-060c301a0b10435994c42836145a1eb8",
+    "version": "casual",
+    "term": "inspired me to aim higher",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0c73d4796f9a42d7be3f68541b77663d",
+    "version": "casual",
+    "term": "refrain from",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d652b326f7bb49c791eafc72015de3ef",
+    "version": "casual",
+    "term": "mason jar",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-64fedabdb24a47e4af453fd7d1182ac1",
+    "version": "casual",
+    "term": "firm up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ce359283847e4dbb98cc507764e0f2c9",
+    "version": "casual",
+    "term": "shipshape",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f0002ec3881343669fda4388133ddf28",
+    "version": "casual",
+    "term": "rocket science",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4ed3550b67af415aa98b29e133f70e99",
+    "version": "casual",
+    "term": "leotard",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-67264e7940604e45a00a28152c659b50",
+    "version": "casual",
+    "term": "menacing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-480a9f24f7214c5f836c1e9e5fdc0d71",
+    "version": "casual",
+    "term": "hit a few bumps",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ed1b9d11a1e541048154ff44c3816a08",
+    "version": "casual",
+    "term": "turn it around",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0e464b597f9842c3b8e00ceece9d9735",
+    "version": "casual",
+    "term": "keep up the momentum",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0da160539e954c3b9901691389f105fd",
+    "version": "casual",
+    "term": "Pandemonium",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d964808c57794c078f8246623c970df5",
+    "version": "casual",
+    "term": "dumpster",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d640277568724fe6a0237e03988daee7",
+    "version": "casual",
+    "term": "a feather in her cap",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ccf830312d664ea9be38efc4e193b00f",
+    "version": "casual",
+    "term": "flesh out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-09f392751f2940eab4a407a62f9a3456",
+    "version": "casual",
+    "term": "have a soft spot for",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-bf12b04e8cca4d438536ac7fd8437a18",
+    "version": "casual",
+    "term": "clock in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2e056823c67441e6a3b176ef39bdb981",
+    "version": "casual",
+    "term": "scurried away",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-02f73f67a417400a91f1d1d8fb8d7202",
+    "version": "casual",
+    "term": "gut-wrenching",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6ec98253d69041e980f948272e2b4c2c",
+    "version": "casual",
+    "term": "take a detour",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0980136b2a31436db97782889887df5f",
+    "version": "casual",
+    "term": "It's been a blast",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1ef905a446db47c8b390eef9322c8cad",
+    "version": "casual",
+    "term": "dig into the details",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-658f9b2e6f274da5af17a074521a052a",
+    "version": "casual",
+    "term": "drudgery",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6a7e2552d64e4f269150caf617eef135",
+    "version": "casual",
+    "term": "mayo",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-baa6c62c7e714f57a1dd916a7a4b9361",
+    "version": "casual",
+    "term": "hard to fathom",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5fd82577e33f461191ce80a5748a9f67",
+    "version": "casual",
+    "term": "the pot calling the kettle black",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0427f23a98d242d89ad7288ef8347c2b",
+    "version": "casual",
+    "term": "a brief glimpse",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2289abb7b27d4b869579d4206e268962",
+    "version": "casual",
+    "term": "gleaned useful information",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-544f6a9075274d209b390bd2d67800b0",
+    "version": "casual",
+    "term": "skittish",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f50fc3d81fcd4cb09de988b59f601597",
+    "version": "casual",
+    "term": "right a wrong",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-62feb4e00ee540969a0ee0844230ff2a",
+    "version": "casual",
+    "term": "Sit tight",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c68279c6a8d24f0494176a264511764c",
+    "version": "casual",
+    "term": "blend in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ac0fdeb3712b435497397edab4f1f81d",
+    "version": "casual",
+    "term": "palate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1314c0c3a0fb4e3ab6e8b4ba2b723f85",
+    "version": "casual",
+    "term": "raise the stakes",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3a64b1339c5342a2a1ef44f1c6e1072b",
+    "version": "casual",
+    "term": "cilantro",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-bd4b257340264aaba4c01d5e06640efe",
+    "version": "casual",
+    "term": "shiitake mushrooms",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-302beaf8480f445884f44ce10061337e",
+    "version": "casual",
+    "term": "pain au lait",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ea1ae891436c4e9a83b4baa41f8aa861",
+    "version": "casual",
+    "term": "the uninitiated",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-af2e4f1332484e799597cc383daa86b3",
+    "version": "casual",
+    "term": "reel in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9b57f33a65f645be92d4dc42f00f2d2e",
+    "version": "casual",
+    "term": "on our toes",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-caf2aa76da034eb6bf1cfa67740bbf09",
+    "version": "casual",
+    "term": "penultimate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-29e5c7fbd677464785cb0eb18ab5ce74",
+    "version": "casual",
+    "term": "a complete beginner",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6f37e356fd524a02bf843becb24ccb86",
+    "version": "casual",
+    "term": "choppy",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-65b8daec1ded4de1bbfed1ee9520b427",
+    "version": "casual",
+    "term": "winding down",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-27affd309dc649f094680de045e3e49b",
+    "version": "casual",
+    "term": "in a roundabout way",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-eed6230e712f4d50b1e557f6d84648cb",
+    "version": "casual",
+    "term": "a weak spot",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cfebd31bf45a44e0b33264533be0425a",
+    "version": "casual",
+    "term": "well versed in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e7278aee7a194b50baa1b48e88662ace",
+    "version": "casual",
+    "term": "pull it off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-15d5f1de844b499bac61beebfa4815f7",
+    "version": "casual",
+    "term": "blossomed into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-21434d30601d46c6b83a41276894a336",
+    "version": "casual",
+    "term": "the nitty-gritty",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4a0a8c6240f34a2f8b90a59ce4870da9",
+    "version": "casual",
+    "term": "one-off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5cb6a63df50148c8b4de508703e7accf",
+    "version": "casual",
+    "term": "leveled everything in its path",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ab17c5a9ccc14bf694329fd4243dba2c",
+    "version": "casual",
+    "term": "con artist",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-147b1cb4f2c84ae0be7c5c455738dc9a",
+    "version": "casual",
+    "term": "outlaws",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0ddddb5a844f4efa9b994761e9e264f3",
+    "version": "casual",
+    "term": "shoehorned into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2e81fa03288b400a8cc1e2c9146b30a9",
+    "version": "casual",
+    "term": "slated for",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e1826cea6059482f920d99f601e5841f",
+    "version": "casual",
+    "term": "came to fruition",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9c9fad38939d41e385dd6fe4125264ec",
+    "version": "casual",
+    "term": "cinematography",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ea58c02021034744a320adc6306e7fa0",
+    "version": "casual",
+    "term": "murderous look",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-720a595aad9b4e1aa5f0d6b1780e30ba",
+    "version": "casual",
+    "term": "spin-off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4e7194f5e0d34cd7a2dd632aa197418f",
+    "version": "casual",
+    "term": "rant about",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6bdaf5aec8a042bcbc473130e19b0b1d",
+    "version": "casual",
+    "term": "fire drill",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8c7d81e8a199442a85e737e521abf340",
+    "version": "casual",
+    "term": "keep text legible",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c574732291e44345bb89a2f1fa136696",
+    "version": "casual",
+    "term": "binge-watching",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f3af224b38fc40299b1c56edf9eb14cc",
+    "version": "casual",
+    "term": "workaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-560ab658709840bab17f11efb85cfd22",
+    "version": "casual",
+    "term": "got dinged",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-09a49c3aa2e746f8898bd04516207211",
+    "version": "casual",
+    "term": "a clever way around the problem",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c2d1380466ce4109be506a81ff587c24",
+    "version": "casual",
+    "term": "ran into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8d73631b32474c5db01c6b06a529008e",
+    "version": "casual",
+    "term": "made sure my role and responsibilities were clear",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-de0181ef512f412cb99ca6be80a15491",
+    "version": "casual",
+    "term": "added some extra time to the schedule",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-15dfae9b5bf448b68b34048c9e30a704",
+    "version": "casual",
+    "term": "risks that could prevent us from reaching the milestones",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b2870c1268e041a89d86f1a5475f3c06",
+    "version": "casual",
+    "term": "break down the work",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-590942ea0e3f43e783b61a7f9d472d00",
+    "version": "casual",
+    "term": "your input on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4010fe1e5cef81c08aa9c111001a90c3",
+    "version": "casual",
+    "term": "on the same page",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a8914cb4e0bc4fb89c9d49778fdad2a1",
+    "version": "casual",
+    "term": "outline the major milestones",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b3c9a48338e14f509bbdc98148e1c3f6",
+    "version": "casual",
+    "term": "key stakeholders",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-81f6f448f8dd4f5c8f5533a88f8cecc8",
+    "version": "casual",
+    "term": "sheer grit and determination",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-39ed9d48604346d1a774eedcbb645d39",
+    "version": "casual",
+    "term": "dillydally",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f89923e2b81346c6a1c4043362fda665",
+    "version": "casual",
+    "term": "state-of-the-art",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6b5d8e2d5bee452baccc7640860949f6",
+    "version": "casual",
+    "term": "unmatched flexibility",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-eac6cecb3e0742939e99f0b7d3526fa6",
+    "version": "casual",
+    "term": "with respect to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b48f1d7402f843438088cd35c38e0486",
+    "version": "casual",
+    "term": "keeps our customers up at night",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-93ed5f4e9cff4a34af55a2c69d0983df",
+    "version": "casual",
+    "term": "the next generation of localization tools",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4ce4b6ea612e4a008d97470218a543c4",
+    "version": "casual",
+    "term": "seniority",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1af7242144c54691be2ebc686b558295",
+    "version": "casual",
+    "term": "pride ourselves on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9ff5aa6010de4605af468dcae97ccb76",
+    "version": "casual",
+    "term": "accelerate mainstream adoption",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-bd2feb6fe9e54693a422db176e84879d",
+    "version": "casual",
+    "term": "prompted to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4dfa37b79acf43cc894898d140bc3ba6",
+    "version": "casual",
+    "term": "legible",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-56e7654886ae445198040fbcf573ce13",
+    "version": "casual",
+    "term": "at capacity",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5865eb40fe0145f6ae726ffc6931e339",
+    "version": "casual",
+    "term": "keep me in the loop",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-53d9bc4ec4904a0ea821a2f446a6fabe",
+    "version": "casual",
+    "term": "be looped in on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7f56b7e7328542738c3fd46a22a39f1b",
+    "version": "casual",
+    "term": "a tight turnaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4d91e4b5041945b88ff195ee4a6e1234",
+    "version": "casual",
+    "term": "fall within the scope of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7c534c9c0ea44e8ca7624f7ece6e4e7f",
+    "version": "casual",
+    "term": "apologized profusely",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0815b2ded6ec47d29ce6636c064064f0",
+    "version": "casual",
+    "term": "a strong growth trajectory",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-64585433e9db4ef2a2d0affecd8ccb14",
+    "version": "casual",
+    "term": "a massive opportunity",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5b3e536cd5624eb18b95332e9ed85f3c",
+    "version": "casual",
+    "term": "engage loyal customers",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2cddeb2d4d13482cb5a512ed7fc3c938",
+    "version": "casual",
+    "term": "integrated, omnichannel solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3ba0eb9f9ce04bb6ada5bc5e0cc22b38",
+    "version": "casual",
+    "term": "outmoded products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4fd6fd8c2258462abd14a66d9fd6f502",
+    "version": "casual",
+    "term": "stymied by",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0cb65e8d477145328c5a1644cda50ac7",
+    "version": "casual",
+    "term": "changed enormously",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a66adb5ab3ea4b95a38b07ff81e484fb",
+    "version": "casual",
+    "term": "disrupt",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4a0b471286c94d4eb08aeebeed44e0da",
+    "version": "casual",
+    "term": "poised to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-60a7d5b132ea4472a800cbea1d562f1e",
+    "version": "casual",
+    "term": "maintain the status quo",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e93312c29f724cdabeb9426fd139c9f7",
+    "version": "casual",
+    "term": "big believers in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ae89751020ba43008db8828fe775c9f8",
+    "version": "casual",
+    "term": "top-notch",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-283a1e85bc3a475887cc079804038dd7",
+    "version": "casual",
+    "term": "challenge the norms",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-67d498286e234359a147b5bf6f18e445",
+    "version": "casual",
+    "term": "align with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-69763afc5f984470bd7f502df127cf9b",
+    "version": "casual",
+    "term": "best-in-class",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0062ca987a5a496690b77dba0f38be68",
+    "version": "casual",
+    "term": "robust products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d55d97acfc474adf9e9b1a9bc5407219",
+    "version": "casual",
+    "term": "an inclusive, collaborative team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5a9f4c092f5f4e35b14f9dce4a1540b8",
+    "version": "casual",
+    "term": "upholds our brand's quality standards",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b57f38f983514731b97ce0c58fbb1c8f",
+    "version": "casual",
+    "term": "encompasses",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a8106e24afbd4a4fa89a7bd67196492a",
+    "version": "casual",
+    "term": "take pride in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-02cfb46725274523a63106d1e224b05f",
+    "version": "casual",
+    "term": "a keen problem solver",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d4ef09a00f67432fad2638ce01554dca",
+    "version": "casual",
+    "term": "moments of delight",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ae9d1255ad2542b2aedc16a2dfb578d3",
+    "version": "casual",
+    "term": "world-class",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a30b6ed42ad340179112632d9a42a744",
+    "version": "casual",
+    "term": "enables one person to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9d070bbac69d406495ceed2468ba8f9e",
+    "version": "casual",
+    "term": "comfortable using",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-edd838e8380b4ed9a97bfe7e9279cce6",
+    "version": "casual",
+    "term": "familiar with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f1390aee06a74c4a92169ed139197edf",
+    "version": "casual",
+    "term": "experience with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7b38a2a6ecc644d49f0797836ba45524",
+    "version": "casual",
+    "term": "knowledge of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-864c2ddb8e1a4db29f59924de8661cdd",
+    "version": "casual",
+    "term": "container management tools",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-82e749e0d2f14273af62a2c005d921ee",
+    "version": "casual",
+    "term": "deploy applications in container environments",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e6b2c1b67ca847c48ea2c113e91b5c21",
+    "version": "casual",
+    "term": "AWS services",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a9fce67f20d6422eb05c048a6cdb2fa6",
+    "version": "casual",
+    "term": "cloud-native applications",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-dde35432670744919c39c566149d441f",
+    "version": "casual",
+    "term": "state-of-the-art artificial intelligence",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2c78d8893a4c4930ba887b2f75c97b70",
+    "version": "casual",
+    "term": "growth into a future leadership role",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-38b558b28e9748f2a08be5a9dd2c01af",
+    "version": "casual",
+    "term": "positively impact",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f95919f552db44bb825a3a494ebdeded",
+    "version": "casual",
+    "term": "best-in-class products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1b264b0102084365b696e66ec82dfb22",
+    "version": "casual",
+    "term": "paired with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-89ccd51a34464488a0a0839bbb1dbd9e",
+    "version": "casual",
+    "term": "diverse perspectives",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-91eff0be64f94b7db2cb6e0d837e58f3",
+    "version": "casual",
+    "term": "a strong belief in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-91771cb555434776a447f5ae7308a664",
+    "version": "casual",
+    "term": "kick things off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1ea7dcdeeed747da8e6eafb712f58420",
+    "version": "casual",
+    "term": "retain exceptional people",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-90b2af3d00ae4c8b816af26f31c9d2bd",
+    "version": "casual",
+    "term": "gave me the warm fuzzies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-84a69cc36f5c4df5a8f7596c496db126",
+    "version": "casual",
+    "term": "event-driven architecture",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-de77208bfd0840139e2470e10839f045",
+    "version": "casual",
+    "term": "a higher level of expertise",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c0f557143c1c46d592d7db80c956fb63",
+    "version": "casual",
+    "term": "build on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9de0e57ba80f43beaecfc443285e8f55",
+    "version": "casual",
+    "term": "a fully contributing team member",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b154ea505e37470f8b971970ae2cb42f",
+    "version": "casual",
+    "term": "fully functional",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c572b035a06f4084b55509b5bb88eaf1",
+    "version": "casual",
+    "term": "work collaboratively",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0a0d2761c4874161be6e0922f17d1c60",
+    "version": "casual",
+    "term": "across the technology stack",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-428407a108c6446694522cf79512b24d",
+    "version": "casual",
+    "term": "full-scale enterprise applications",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f2a24b4630314d5887bd669847f2d59d",
+    "version": "casual",
+    "term": "end-to-end setup",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6af27b579c8448c9abe4ae3e7b1594a4",
+    "version": "casual",
+    "term": "new and evolving business needs",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ccc3b500f17247f88cad8b40f9b0d6ad",
+    "version": "casual",
+    "term": "from end to end",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-157e2ed90d584fdeb20b353983bf9372",
+    "version": "casual",
+    "term": "a small product squad",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3bd4d827d600484ebb9be518b59a53f0",
+    "version": "casual",
+    "term": "exercising sound judgment",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9780238543f04d628d9d98c0a7eea55e",
+    "version": "casual",
+    "term": "problems of relatively complex scope",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-99ee06ac96d04593a95b0c03d5f84aed",
+    "version": "casual",
+    "term": "scalable, resilient, distributed application",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a0f9eb1b37054044ba66f269eedd8cd9",
+    "version": "casual",
+    "term": "ongoing maintenance and enhancements",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-50aec17480e6492daa5a2b9e1b8f1135",
+    "version": "casual",
+    "term": "lasting, substantial improvements",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-60e76e49b81140dfa805ea9d41fd3ac5",
+    "version": "casual",
+    "term": "technology-enabled solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-67ab0907f3724025a635f4c0d6fcc95e",
+    "version": "casual",
+    "term": "unit and integration testing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-63cbad7cd875415aac8dc8686ca8e99c",
+    "version": "casual",
+    "term": "software design documents",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f77c6e770c4c4955b2c8ebba09f2bec4",
+    "version": "casual",
+    "term": "My responsibilities include",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-222ce73dcc6a4f90a6537b0906fb690b",
+    "version": "casual",
+    "term": "people-first",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8366b09e2d024697b0c371d64e9b9b8a",
+    "version": "casual",
+    "term": "as much as",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b830d6c1abda4d0b92d810f7125b0960",
+    "version": "casual",
+    "term": "under the close supervision of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a6041cfed0aa4849a39f54fdd67d26e1",
+    "version": "casual",
+    "term": "highly motivated",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-397732082c6544b49f414f7c0995bdfd",
+    "version": "casual",
+    "term": "participate in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a424e1a661a34c43b2a4afa0ca23c511",
+    "version": "casual",
+    "term": "scalable technical solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2e0186c163884ad5b841d04f45f16c57",
+    "version": "casual",
+    "term": "power a new era",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a30b728191d04e2b86baac10dfb2a249",
+    "version": "casual",
+    "term": "a brand-new suite of applications",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8256d1b4480f4ba5a0949d9dd7e73a54",
+    "version": "casual",
+    "term": "work closely with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3bb0cda78dab43b78b459076975f235f",
+    "version": "casual",
+    "term": "a rapidly growing team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9e8c08a8d64e48de85d933aa3844c2fb",
+    "version": "casual",
+    "term": "talented",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-df318c154276401095291d7d31cc455c",
+    "version": "casual",
+    "term": "push onwards",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-521be253a3774274970cbcb9f3c8d535",
+    "version": "casual",
+    "term": "make the dream a reality",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b4aae2c9acd34a799d0916384cbf814d",
+    "version": "casual",
+    "term": "would otherwise spend",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d4d7ffac3ce14fa0809cde800daec387",
+    "version": "casual",
+    "term": "steadily working toward",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-878052426e9e4134b3c6e3ff9953fbfa",
+    "version": "casual",
+    "term": "innovators",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ea85b28de55047f0840f2d4f85837524",
+    "version": "casual",
+    "term": "radically simplify",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4c37e5c344dd4627a214b0c043c2f63d",
+    "version": "casual",
+    "term": "unlock significant value",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-40d7da11ed034d6cbe4be06faf170fdb",
+    "version": "casual",
+    "term": "like-minded",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-51e6880dbd534862b3fbf84d4daec1e4",
+    "version": "casual",
+    "term": "make a real difference",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e844c36227e74f04bec1c7aaa6bd852e",
+    "version": "casual",
+    "term": "committed to creating",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5821d9a26f1745a4a4e93daca875d1a0",
+    "version": "casual",
+    "term": "rethink how",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1ce8580b5f064cf4ac6eed02427d8bde",
+    "version": "casual",
+    "term": "a firm grasp of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-21f714851e074112ac6c00009fbf6c86",
+    "version": "casual",
+    "term": "e-discovery systems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9626a65582fc41798b04ed5295453107",
+    "version": "casual",
+    "term": "dabbled in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b4573926f2754022911177320e0a57e3",
+    "version": "casual",
+    "term": "the discretion to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8fa90819be8243a98d217d6664a7394e",
+    "version": "casual",
+    "term": "a big softie",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cbf53b0decf445cf8762bee449a6ea98",
+    "version": "casual",
+    "term": "on top of it",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2c87f5e2e3f64a3ba919d0dabe85e947",
+    "version": "casual",
+    "term": "a solid understanding of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-aa7b3df49f6b44348d4b490941208fc4",
+    "version": "casual",
+    "term": "ship high-quality code",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c59047ff39244826b75ae20b23e10103",
+    "version": "casual",
+    "term": "distributed services",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-574a66fad1394ae3ba87638031f66938",
+    "version": "casual",
+    "term": "dabbled in backend systems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2dbe662914cc45aa8b9d0bcfdc08809f",
+    "version": "casual",
+    "term": "frontend technologies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5e2c8cb1b55d43e4916f17a73865dc37",
+    "version": "casual",
+    "term": "a commitment to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7dde4f43096844f8a0e91491811aeb1a",
+    "version": "casual",
+    "term": "low staff turnover",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6a0b6b08665a4e589540d010d1f90fbc",
+    "version": "casual",
+    "term": "server-side APIs",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ac9cc24aa7df48a89cb62bda86e07d66",
+    "version": "casual",
+    "term": "requirements gathering",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a075fd8568fc4558800bfc1d796ea3af",
+    "version": "casual",
+    "term": "fresh perspectives",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2773d5c4d81d4022a575397211f24cde",
+    "version": "casual",
+    "term": "make the world a better place",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e0b9e50e499a4127ac25506086be7032",
+    "version": "casual",
+    "term": "intractable problems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b6a0d774f3aa406b86c622c8bddcc921",
+    "version": "casual",
+    "term": "in bulk",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-44bc9cd9ef254c6883eb32cddc1cefa1",
+    "version": "casual",
+    "term": "prioritize workflows",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-88d0a80294ec41e7a4dd4c211d6688f2",
+    "version": "casual",
+    "term": "visual elements",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c9f19d0bc42248fd9d4dba4957fcfbf4",
+    "version": "casual",
+    "term": "bridge the gap",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ca82efc49f2949adab3b65a27102f0f2",
+    "version": "casual",
+    "term": "translate UI design wireframes into working code",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7ddf18c3924b4634b5fe27b28d163d05",
+    "version": "casual",
+    "term": "test hypotheses",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d4a1fd745719407b8170eddf1152f2e3",
+    "version": "casual",
+    "term": "expertise in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-af3e5413c54f4126a164034c6ec25133",
+    "version": "casual",
+    "term": "seamlessly",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-42e9b5131cd8496ab125d0d303000076",
+    "version": "casual",
+    "term": "an aptitude for",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4cc509de4fd14b4fa6e912b5421e6d05",
+    "version": "casual",
+    "term": "a team player",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9533760af0484bf8a9b0b9f5ecd8b178",
+    "version": "casual",
+    "term": "deeply invested in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-fcf5e3510dd74bf19c0ffe88d1303246",
+    "version": "casual",
+    "term": "leverage",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-756a554d04f04012b0cce2eab6909a5e",
+    "version": "casual",
+    "term": "proof of concept",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-61bf8cecc571420284a97d1499657f8d",
+    "version": "casual",
+    "term": "driving innovation in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-66dd7acb46ca41f3800c3cc3f84489f8",
+    "version": "casual",
+    "term": "ensure code quality",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2dd62cac2e7544adbfe11d1e43910bba",
+    "version": "casual",
+    "term": "intuitive user interfaces",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-59c6c857d0e342be846fbb233e466e31",
+    "version": "casual",
+    "term": "user experience",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3bb4827b24ab414994a14f29ce165e83",
+    "version": "casual",
+    "term": "with minimal supervision",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b2bc6f6be952478e9d15117f428478f5",
+    "version": "casual",
+    "term": "focus relentlessly on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-46979eb58ff44b559158e4503fa76372",
+    "version": "casual",
+    "term": "hands-on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c93f49514e854469aea58bbb8be7a251",
+    "version": "casual",
+    "term": "eager to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f6ba675552d44de7bf47378d5d55a8d3",
+    "version": "casual",
+    "term": "meet deadlines",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d9202daa382040e895551a9cfca60da6",
+    "version": "casual",
+    "term": "balancing multiple tasks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-947664bdade44356af988b3163d5be71",
+    "version": "casual",
+    "term": "detail-oriented",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-97a88dd51a5840689579870d58acd69e",
+    "version": "casual",
+    "term": "prioritize tasks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-103faf020f3b402cb545580efce896f7",
+    "version": "casual",
+    "term": "self-motivated",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-23188c21acc44ba890d7fc5d49a7586c",
+    "version": "casual",
+    "term": "consume RESTful APIs",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1c4e772642704056b9f7608733c3df78",
+    "version": "casual",
+    "term": "cloud computing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-50b2c59d44d144598c11e5c138e9f82f",
+    "version": "casual",
+    "term": "testing activities",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-61cdd34ac42c44d8aaaaeeaf8bc6e154",
+    "version": "casual",
+    "term": "address the new requirements",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f01efcee18cc4c01bdd0d80fb14cafcc",
+    "version": "casual",
+    "term": "test harness",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-120ade600fcd4a04a40fda4006641788",
+    "version": "casual",
+    "term": "contributed to the architecture",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-57254539b7934975b2512581cf53f735",
+    "version": "casual",
+    "term": "balance accuracy, flexibility, and speed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9b54802a29054044a7b9a859b58c9080",
+    "version": "casual",
+    "term": "data-driven web applications",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-484b1654d2df4eabbe03a5969f7a42fa",
+    "version": "casual",
+    "term": "real-time health",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4812dc5b78d446929cd1f90b0c5f7f97",
+    "version": "casual",
+    "term": "support the engineering team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b64d720372a946cab5c7a4728ab08fde",
+    "version": "casual",
+    "term": "scalable systems and infrastructure",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c15c27f13609488b85e11eaf957f32cd",
+    "version": "casual",
+    "term": "empowered to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-05859642163748288b4ea1a148844b6c",
+    "version": "casual",
+    "term": "EC2, ECS, API Gateway, and S3",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7e51d35966c44d25b03db2efeac60ec5",
+    "version": "casual",
+    "term": "unit and integration tests",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b74d9842831746e6a313cdcffc3420cd",
+    "version": "casual",
+    "term": "proficient in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-18e60f6c09dd4be9bddf9ae20943284c",
+    "version": "casual",
+    "term": "designed to last and scale",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-565ad0a63a494266b46523eaecc9a7f6",
+    "version": "casual",
+    "term": "collaborate across",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7551d05ab8ad45578423173455165f91",
+    "version": "casual",
+    "term": "used around the world",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-924f3bdd3caf424cbe025cc4228af841",
+    "version": "casual",
+    "term": "keep users informed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ce0b04c833d744c88e093bfd6669d165",
+    "version": "casual",
+    "term": "gained exposure to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-748a7669a55a44f79d907a44ae852780",
+    "version": "casual",
+    "term": "emerging technologies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-80653e4e62e24b87b149af7c5ffb4b8f",
+    "version": "casual",
+    "term": "in practical and creative ways",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f298f09db02749139280ebb66e6ea867",
+    "version": "casual",
+    "term": "improving the architecture",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-17521f5df93743a4a0dda968a2f5b3ee",
+    "version": "casual",
+    "term": "challenging established norms",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c6980a795417476ebeafd78524d71c2f",
+    "version": "casual",
+    "term": "empowered to propose solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f0f89d2b128c4193a47f021c8cc2b5b2",
+    "version": "casual",
+    "term": "partner directly with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4f472b3bb6864e8f83bc40e42e788526",
+    "version": "casual",
+    "term": "meaningful connections",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6746cf146dfa44068dbbc0826806f259",
+    "version": "casual",
+    "term": "growing rapidly",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6b41b0f3261745deb83668f4021f5b72",
+    "version": "casual",
+    "term": "up-and-coming",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0d3296cd0e8746b0b3a729b73b0e4e25",
+    "version": "casual",
+    "term": "work well with others",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c720a2997fbd43a19354e2cbfc72b3b9",
+    "version": "casual",
+    "term": "from scratch",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e339a69067694583b2e4f0f40557cabe",
+    "version": "casual",
+    "term": "across the stack",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ea8266a659074f6da1caed3c2c81adf7",
+    "version": "casual",
+    "term": "backend languages and frameworks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c80666a2c926453fac7763e4b5da4012",
+    "version": "casual",
+    "term": "frontend technologies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cc1f3dfa6fb0446aac557bb3153f2c48",
+    "version": "casual",
+    "term": "relational database schemas",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0bbff122a6fc47129c49c4c8525ebdf8",
+    "version": "casual",
+    "term": "maintainability",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3a85f3c6815041dda12006deb9c7b130",
+    "version": "casual",
+    "term": "the full software lifecycle",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4390a1622fdc438e9580f10a0833dbaf",
+    "version": "casual",
+    "term": "reuse their tools and infrastructure",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7b4edfba1a7345eaab66edb703c8e30e",
+    "version": "casual",
+    "term": "design and code reviews",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ce880ec457444d18b7d5ef690d88151e",
+    "version": "casual",
+    "term": "ingesting, querying, and visualizing data",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6360b6d0f4ab44d4b11cd5006847b9c6",
+    "version": "casual",
+    "term": "data integrity",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-694c48ca72c341109f8525c1dbfe45af",
+    "version": "casual",
+    "term": "internal applications",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e5e67d8b67424d0180c26fff9b6d90cc",
+    "version": "casual",
+    "term": "best practices",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-16408333aedf4d57942208663f161de0",
+    "version": "casual",
+    "term": "high-performance computing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6e2bf93db61443a4aee137d980a0b23e",
+    "version": "casual",
+    "term": "push the boundaries",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-db8e5c01a083456bbb648769206f09e0",
+    "version": "casual",
+    "term": "transpilers, linters, and build tools",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f97858e113cd49efac5cdb78aeda2950",
+    "version": "casual",
+    "term": "integrated the frontend code into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a9322750d3f0428693e6a0bd2cfbb76d",
+    "version": "casual",
+    "term": "controllers, models, and views",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-af78076c0cf94c67a408f58c83f689d6",
+    "version": "casual",
+    "term": "write and maintain",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ee5e61d5699e4d419ad6d085b5baa940",
+    "version": "casual",
+    "term": "perform well on all devices",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0f91c2e4dc0b4f5ca9ca4d40ab96c30a",
+    "version": "casual",
+    "term": "modern technologies and frameworks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-236e65e5a73c4a018c95555e5ba53d03",
+    "version": "casual",
+    "term": "UX style guide",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0ec72f186bec4ab2beb3ef25cf880abd",
+    "version": "casual",
+    "term": "reusable and scalable components",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8829348ffe5c410090b444bce50cf6c1",
+    "version": "casual",
+    "term": "other disciplines",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a028f0acbcc64a9ab2f72b7623e8da7d",
+    "version": "casual",
+    "term": "problems merchants face",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-416bb9771c61480eb5d4d390de696574",
+    "version": "casual",
+    "term": "make complex concepts approachable",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-871afd58ced047eda15f5d97971cf4f8",
+    "version": "casual",
+    "term": "related areas across the company",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-adb10b9524f640ac908ed15c0db2fd21",
+    "version": "casual",
+    "term": "R&D organization",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-87189c744f3a4ee9909d1ace2e22c123",
+    "version": "casual",
+    "term": "merchant-facing products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e207a78b00d84c93bf3c690155c2d113",
+    "version": "casual",
+    "term": "a new perspective",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ff11874588d54a76bdec274a351ff6a1",
+    "version": "casual",
+    "term": "developer-facing tools",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cedcca2d2819451f9fc40df890999eb5",
+    "version": "casual",
+    "term": "grow alongside my team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-da26d4549df24f8db1f698a6976b1ad5",
+    "version": "casual",
+    "term": "independent thinkers",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e44277ed8ab94e63a0406d6e70c5f3b9",
+    "version": "casual",
+    "term": "collaborators",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-205b3a38be3e41a5b379884e5aaef9ff",
+    "version": "casual",
+    "term": "trust and flexibility",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8dc3414a2cea421fb34a158874c26af3",
+    "version": "casual",
+    "term": "fully integrated into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c41b0e421b0f46e3897ca79467e0c3bf",
+    "version": "casual",
+    "term": "serious about",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b99794f61db24ccbbe7ddf044342856a",
+    "version": "casual",
+    "term": "controlled software releases",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-64c95e26decc404eb33d2098702af13b",
+    "version": "casual",
+    "term": "a portfolio of side projects",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-aa8f9392ff9d4b9599b5bf76c1007615",
+    "version": "casual",
+    "term": "shipping high-quality products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-53a953273bb644b99d860baaa619bbd2",
+    "version": "casual",
+    "term": "integrate the new module into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5da2103033e24ddba3bf84dc0f4a1e6b",
+    "version": "casual",
+    "term": "on a mission to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6c3e8945240441dfb526b0b3020a6fd8",
+    "version": "casual",
+    "term": "self-motivation",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0cdadc95ed994258b0170fe73b31bd98",
+    "version": "casual",
+    "term": "committed to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a534666d8f33451fb8eaa98d7e1216b8",
+    "version": "casual",
+    "term": "master your craft",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ad19a883e5e64e9080b906f086330a82",
+    "version": "casual",
+    "term": "keep growing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-672ec0296c50453caf822be3ee5705c6",
+    "version": "casual",
+    "term": "a fast-paced environment",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4e71b0dc8ad746d793950f28b569a294",
+    "version": "casual",
+    "term": "turn business and product ideas into engineering solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-06e4eecf440c4deaaf3c417ebf13e9cb",
+    "version": "casual",
+    "term": "a nimble team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ad93baaeb7b34bbaab71004c478da240",
+    "version": "casual",
+    "term": "usable interfaces",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-56710e4d3f1943a4a0876156026fabc7",
+    "version": "casual",
+    "term": "an aptitude for learning quickly",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9f1c2d0ada534987aa2e5b15a9530767",
+    "version": "casual",
+    "term": "from inception through scaling in production",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-049df78502ec4709b4ded7544c0b46ee",
+    "version": "casual",
+    "term": "a strong sense of ownership",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0d0fdba21aec4b0e889288dfad32ea20",
+    "version": "casual",
+    "term": "passionate about",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1cc80cd6987a4588ac69a4a739a9d379",
+    "version": "casual",
+    "term": "a diverse and vibrant tech community",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ce82b714210642199095f769d3bc65f8",
+    "version": "casual",
+    "term": "part of the company's early story",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d5b4edf9d89e45c19c43afc2da23e48b",
+    "version": "casual",
+    "term": "highly cross-functional",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a111542280cf463a80f91866628a9863",
+    "version": "casual",
+    "term": "on a mission to build",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cd18f666fbca43549392dbcfddf496e8",
+    "version": "casual",
+    "term": "tackle a wide range of engineering challenges",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-60f336464e654f6c9c9cdf4f4ca085ea",
+    "version": "casual",
+    "term": "a knack for",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6e6ab56617ac4121bd9c9ea87b57e4fe",
+    "version": "casual",
+    "term": "evaluate results",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-20e521037dd74f729853d3f5112c1ef4",
+    "version": "casual",
+    "term": "automate routine tasks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-7361fa7b72824cdc9ddfb30ee705c5e3",
+    "version": "casual",
+    "term": "apply what I learned",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a441701d605e474f90c40c5d07422f28",
+    "version": "casual",
+    "term": "a productive and innovative team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-00436772d1f545b68bd8b9881f5f4967",
+    "version": "casual",
+    "term": "millions, if not billions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-897a1864fa844a4e9d2fc595b71b8292",
+    "version": "casual",
+    "term": "address",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a7f92a23dc8d469faf6519fc8af188c7",
+    "version": "casual",
+    "term": "ranges from",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b2de1c9c7def4bd7a56a0be58b80f7bc",
+    "version": "casual",
+    "term": "a broad set of technical skills",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f9b7fdd35f834e6b8857b1e155d3ba03",
+    "version": "casual",
+    "term": "large-scale storage",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-453ab12a824b4eb78ca626e0a257b6b6",
+    "version": "casual",
+    "term": "ongoing maintenance",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ae7c47e3e6dd49cd8c2320cca77a52ce",
+    "version": "casual",
+    "term": "at scale",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c9bfe8071fa74291a8d577e1b6198c10",
+    "version": "casual",
+    "term": "business-critical systems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e1bbb9103162451194f79d75fbc81f56",
+    "version": "casual",
+    "term": "troubleshoot traffic anomalies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-9ede96cc4ff04ad7990b7edf4f55c2af",
+    "version": "casual",
+    "term": "harden the code",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a2b90bb33aa04b47be3ba7d6d2835940",
+    "version": "casual",
+    "term": "extend, and scale",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0febe6695a7b4e09b1469108b7470dc9",
+    "version": "casual",
+    "term": "deploy, and maintain",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b3c2f2bcc2ba4587ae13c2f385da889b",
+    "version": "casual",
+    "term": "as they arise",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cdd7e8e98aa3448bbb5d70b6eae0e963",
+    "version": "casual",
+    "term": "push technology forward",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a9d0dd393f664765ab05a7254716dc59",
+    "version": "casual",
+    "term": "site reliability engineering",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cc88022040d142eba34cb2c7a233b072",
+    "version": "casual",
+    "term": "a versatile team",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d8e601f73d3443bdb3c783a270dba314",
+    "version": "casual",
+    "term": "critical to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-501ac4efb5714471ae14c6118dc0db04",
+    "version": "casual",
+    "term": "scalable, distributed software systems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-73a69a7128c84b36bdd04c7a6783fb56",
+    "version": "casual",
+    "term": "collaborate on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c7e294e482c5462ea8b7130bc6051a49",
+    "version": "casual",
+    "term": "broad appeal",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c9f4f28520cb4641819349efa2d8f9c8",
+    "version": "casual",
+    "term": "complex computer science problems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-19761a4dcf8f4e2eaf1051fe2ba73ce8",
+    "version": "casual",
+    "term": "information retrieval",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3507897234004a61a7734bd13169c638",
+    "version": "casual",
+    "term": "security software development",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3620b1e4b2f54497a1028237ec3bb46c",
+    "version": "casual",
+    "term": "natural language processing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-3cfcf0834bb54bfd9cbdd2a0632f2d68",
+    "version": "casual",
+    "term": "personal and professional development",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d91480d6ff2043e0b1f755ff4930b17b",
+    "version": "casual",
+    "term": "executive speaker series",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-8cd742c536254bff8374d1e770dfcfc5",
+    "version": "casual",
+    "term": "general-purpose programming language",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1534c95ee6c143e6abe78044a831154a",
+    "version": "casual",
+    "term": "Unix and Linux environments",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f6947538b29e48c2bcda22458df4ee03",
+    "version": "casual",
+    "term": "distributed and parallel systems",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c557f58b80e2489ea5156192a03a269b",
+    "version": "casual",
+    "term": "focused on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-913ebf30b07a42d98cae70d4e30507d6",
+    "version": "casual",
+    "term": "deliver quality solutions",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ebddf0f412dc436592aff87e30c68664",
+    "version": "casual",
+    "term": "an experienced engineer",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-439166ee8cdf4f51ab934ae14aa47d83",
+    "version": "casual",
+    "term": "strong skills in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-532c9a7d0a7e4f18960cca203928e28e",
+    "version": "casual",
+    "term": "putting quality first",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-81576dde453f4591b004fc62245999a2",
+    "version": "casual",
+    "term": "learn new technologies quickly",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-92972556c921405a878de127bdce6149",
+    "version": "casual",
+    "term": "a self-starter",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1f6b71845fef4264bd5ccc71b5935d75",
+    "version": "casual",
+    "term": "effectively and efficiently",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-cb36bbc03dfd4ae48c9fe8e1fb1d46cb",
+    "version": "casual",
+    "term": "general knowledge of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-e5220c18fca94b3e9d56f156cbf2d0ac",
+    "version": "casual",
+    "term": "clear, efficient, concise code",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2a42f098798d4cbc9148d1afe6e6643e",
+    "version": "casual",
+    "term": "implement algorithms efficiently",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-53f87a1d1df24a86b38f55a16af8a37c",
+    "version": "casual",
+    "term": "adopt a new approach",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c669b011eef54fb9b0502a6468a67b0d",
+    "version": "casual",
+    "term": "integrating AI capabilities into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-6ba1c8de7a4b4a268ce3e5d3194f6e93",
+    "version": "casual",
+    "term": "popular and profitable",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-b7f87c51b2444a3f8d787ec41cda9c39",
+    "version": "casual",
+    "term": "affect how the business runs",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-ddb5f485dea040b5be7d03d34a9bbe9d",
+    "version": "casual",
+    "term": "a tangible impact",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-0316de432ff0492b8062637ce281c6b7",
+    "version": "casual",
+    "term": "deployed to production",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-1648c66e49564d03828933663cb0656d",
+    "version": "casual",
+    "term": "build new features",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-2b816a72551b4a289a58872cbb5c093f",
+    "version": "casual",
+    "term": "a firm grasp of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-5def6c572bb4462882e38a647ea76787",
+    "version": "casual",
+    "term": "own my projects end to end",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-969ad3ae05d343e786453c54d713358c",
+    "version": "casual",
+    "term": "with ease",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-a6880b1d4ed84df4b96feacca1c550ee",
+    "version": "casual",
+    "term": "reducing runtime",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4164939c048842dab11bb811b308b1b4",
+    "version": "casual",
+    "term": "lend their expertise",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-58d44730748f475db31fc8329e2b356c",
+    "version": "casual",
+    "term": "highly reliable software",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-96b1aee920794ab4a56f31399e7c2266",
+    "version": "casual",
+    "term": "drive the company forward",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-c716f5dbe0704fb8ba56e1bb13bdc8d7",
+    "version": "casual",
+    "term": "accelerate your professional growth",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-f00035fbfa814c3e8ff7c5df97071067",
+    "version": "casual",
+    "term": "excited to work",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-d8139abed78747a78b95baacb54227b9",
+    "version": "casual",
+    "term": "highly collaborative",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-0",
+    "version": "casual",
+    "term": "chime in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-1",
+    "version": "pro",
+    "term": "iron out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-1",
+    "version": "casual",
+    "term": "iron out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-2",
+    "version": "pro",
+    "term": "scale back",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-2",
+    "version": "casual",
+    "term": "scale back",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-3",
+    "version": "pro",
+    "term": "streamline",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-3",
+    "version": "casual",
+    "term": "streamline",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-4",
+    "version": "pro",
+    "term": "get back to you",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-4",
+    "version": "casual",
+    "term": "get back to you",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-5",
+    "version": "pro",
+    "term": "not quite following",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-5",
+    "version": "casual",
+    "term": "not quite following",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-6",
+    "version": "pro",
+    "term": "not entirely convinced",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-6",
+    "version": "casual",
+    "term": "not entirely convinced",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-7",
+    "version": "casual",
+    "term": "elaborate on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-8",
+    "version": "casual",
+    "term": "sync up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-9",
+    "version": "casual",
+    "term": "leave out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-10",
+    "version": "pro",
+    "term": "pile up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-10",
+    "version": "casual",
+    "term": "pile up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-11",
+    "version": "casual",
+    "term": "brush off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-12",
+    "version": "casual",
+    "term": "illustrate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-13",
+    "version": "casual",
+    "term": "overlook",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-14",
+    "version": "casual",
+    "term": "troubleshoot",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-15",
+    "version": "casual",
+    "term": "phase out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-16",
+    "version": "casual",
+    "term": "swing by",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-17",
+    "version": "casual",
+    "term": "drop off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-18",
+    "version": "casual",
+    "term": "catch on to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-19",
+    "version": "pro",
+    "term": "clear up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-19",
+    "version": "casual",
+    "term": "clear up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-20",
+    "version": "casual",
+    "term": "hash out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-21",
+    "version": "casual",
+    "term": "allocate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-22",
+    "version": "casual",
+    "term": "without further ado",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-23",
+    "version": "casual",
+    "term": "turn over",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-24",
+    "version": "casual",
+    "term": "resonate with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-25",
+    "version": "pro",
+    "term": "digress",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-25",
+    "version": "casual",
+    "term": "digress",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-26",
+    "version": "casual",
+    "term": "segue into",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-27",
+    "version": "casual",
+    "term": "rock the boat",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-28",
+    "version": "casual",
+    "term": "short and sweet",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-29",
+    "version": "pro",
+    "term": "in black and white",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-29",
+    "version": "casual",
+    "term": "in black and white",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-30",
+    "version": "casual",
+    "term": "high and dry",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-31",
+    "version": "casual",
+    "term": "apples and oranges",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-32",
+    "version": "casual",
+    "term": "level with",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-33",
+    "version": "casual",
+    "term": "on mute",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-34",
+    "version": "casual",
+    "term": "echo",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-35",
+    "version": "casual",
+    "term": "fall short of",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-36",
+    "version": "casual",
+    "term": "a shout-out to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-37",
+    "version": "casual",
+    "term": "a steep learning curve",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-38",
+    "version": "casual",
+    "term": "spot on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-39",
+    "version": "pro",
+    "term": "at your earliest convenience",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-39",
+    "version": "casual",
+    "term": "at your earliest convenience",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-40",
+    "version": "casual",
+    "term": "feasible",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-41",
+    "version": "casual",
+    "term": "schedule in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-42",
+    "version": "casual",
+    "term": "draw up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-43",
+    "version": "casual",
+    "term": "carry out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-44",
+    "version": "pro",
+    "term": "by EOD",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-44",
+    "version": "casual",
+    "term": "by EOD",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-45",
+    "version": "casual",
+    "term": "burn out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-46",
+    "version": "casual",
+    "term": "step through",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-47",
+    "version": "casual",
+    "term": "cook up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-48",
+    "version": "casual",
+    "term": "square away",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-49",
+    "version": "casual",
+    "term": "strip out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-50",
+    "version": "pro",
+    "term": "oversight",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "long-note-50",
+    "version": "casual",
+    "term": "oversight",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-001",
+    "version": "casual",
+    "term": "get something backwards",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-002",
+    "version": "casual",
+    "term": "that's not what I meant",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-003",
+    "version": "casual",
+    "term": "go ahead",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-004",
+    "version": "casual",
+    "term": "it took me a second",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-005",
+    "version": "casual",
+    "term": "zone out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-006",
+    "version": "casual",
+    "term": "a rough idea",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-007",
+    "version": "casual",
+    "term": "don't get me wrong",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-008",
+    "version": "casual",
+    "term": "no wonder",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-009",
+    "version": "casual",
+    "term": "put my finger on it",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-010",
+    "version": "casual",
+    "term": "just in time",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-011",
+    "version": "casual",
+    "term": "run late",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-012",
+    "version": "casual",
+    "term": "set something aside",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-013",
+    "version": "casual",
+    "term": "I was just asking",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-014",
+    "version": "casual",
+    "term": "give someone a ride",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-015",
+    "version": "casual",
+    "term": "let someone get back to it",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-016",
+    "version": "casual",
+    "term": "hold off on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-017",
+    "version": "casual",
+    "term": "now that you mention it",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-018",
+    "version": "casual",
+    "term": "a coincidence",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-019",
+    "version": "casual",
+    "term": "make a special trip",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-020",
+    "version": "casual",
+    "term": "play it by ear",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-021",
+    "version": "casual",
+    "term": "not necessarily",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-022",
+    "version": "casual",
+    "term": "just a reminder",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-023",
+    "version": "casual",
+    "term": "I'm not saying...",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-024",
+    "version": "casual",
+    "term": "go through",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-025",
+    "version": "casual",
+    "term": "come all this way for nothing",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-026",
+    "version": "casual",
+    "term": "leave someone hanging",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-027",
+    "version": "casual",
+    "term": "when you get a chance",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-028",
+    "version": "casual",
+    "term": "think something over",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-029",
+    "version": "casual",
+    "term": "as long as",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-030",
+    "version": "casual",
+    "term": "finish this point",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-031",
+    "version": "casual",
+    "term": "was that for me?",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-032",
+    "version": "casual",
+    "term": "follow-up message",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-033",
+    "version": "casual",
+    "term": "reproduce an issue",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-034",
+    "version": "casual",
+    "term": "not all..., just...",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-035",
+    "version": "casual",
+    "term": "go over",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-instant-036",
+    "version": "casual",
+    "term": "doesn't have to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-001",
+    "version": "pro",
+    "term": "commit to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-001",
+    "version": "casual",
+    "term": "commit to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-002",
+    "version": "pro",
+    "term": "initial estimate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-002",
+    "version": "casual",
+    "term": "initial estimate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-003",
+    "version": "pro",
+    "term": "validate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-003",
+    "version": "casual",
+    "term": "validate",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-004",
+    "version": "pro",
+    "term": "fall through the cracks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-004",
+    "version": "casual",
+    "term": "fall through the cracks",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-005",
+    "version": "pro",
+    "term": "flag a potential issue",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-005",
+    "version": "casual",
+    "term": "flag a potential issue",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-006",
+    "version": "pro",
+    "term": "speak up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-006",
+    "version": "casual",
+    "term": "speak up",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-007",
+    "version": "pro",
+    "term": "sign off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-007",
+    "version": "casual",
+    "term": "sign off",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-008",
+    "version": "pro",
+    "term": "under investigation",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-008",
+    "version": "casual",
+    "term": "under investigation",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-009",
+    "version": "pro",
+    "term": "service has been restored",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-009",
+    "version": "casual",
+    "term": "service has been restored",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-010",
+    "version": "pro",
+    "term": "not blocking... yet",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-010",
+    "version": "casual",
+    "term": "not blocking... yet",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-011",
+    "version": "pro",
+    "term": "take something on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-011",
+    "version": "casual",
+    "term": "take something on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-012",
+    "version": "pro",
+    "term": "on a temporary basis",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-012",
+    "version": "casual",
+    "term": "on a temporary basis",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-013",
+    "version": "pro",
+    "term": "as agreed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-013",
+    "version": "casual",
+    "term": "as agreed",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-014",
+    "version": "pro",
+    "term": "avoid further rework",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-014",
+    "version": "casual",
+    "term": "avoid further rework",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-015",
+    "version": "pro",
+    "term": "decision context",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-015",
+    "version": "casual",
+    "term": "decision context",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-016",
+    "version": "pro",
+    "term": "commit to a target",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-016",
+    "version": "casual",
+    "term": "commit to a target",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-017",
+    "version": "pro",
+    "term": "compare against criteria",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-017",
+    "version": "casual",
+    "term": "compare against criteria",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-018",
+    "version": "pro",
+    "term": "test a hypothesis",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-018",
+    "version": "casual",
+    "term": "test a hypothesis",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-019",
+    "version": "pro",
+    "term": "aggregate metrics",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-019",
+    "version": "casual",
+    "term": "aggregate metrics",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-020",
+    "version": "pro",
+    "term": "unintended change",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-020",
+    "version": "casual",
+    "term": "unintended change",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-021",
+    "version": "pro",
+    "term": "initial findings",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-021",
+    "version": "casual",
+    "term": "initial findings",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-022",
+    "version": "pro",
+    "term": "confirm compatibility",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-022",
+    "version": "casual",
+    "term": "confirm compatibility",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-023",
+    "version": "pro",
+    "term": "evaluate its benefit",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-023",
+    "version": "casual",
+    "term": "evaluate its benefit",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-024",
+    "version": "pro",
+    "term": "rule out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "extra-judgment-024",
+    "version": "casual",
+    "term": "rule out",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-f04807e0400b46e0bc1505283a2f1be2",
+    "version": "casual",
+    "term": "intermittent",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-d71a2ddaaf5b449bb7c4380590b22a9f",
+    "version": "casual",
+    "term": "smdh",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-99f1fa75d92047c7b05b016d652d91e6",
+    "version": "casual",
+    "term": "giblets",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-9f69282426e6422d9766ed7584aa3242",
+    "version": "casual",
+    "term": "grease",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-bc1d2fe2b700491bb68e48a8781abdf3",
+    "version": "casual",
+    "term": "liberal arts",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-d652b326f7bb49c791eafc72015de3ef",
+    "version": "casual",
+    "term": "mason jar",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-f0002ec3881343669fda4388133ddf28",
+    "version": "casual",
+    "term": "rocket science",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-480a9f24f7214c5f836c1e9e5fdc0d71",
+    "version": "casual",
+    "term": "hit a few bumps",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-ed1b9d11a1e541048154ff44c3816a08",
+    "version": "casual",
+    "term": "turn it around",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-0e464b597f9842c3b8e00ceece9d9735",
+    "version": "casual",
+    "term": "keep up the momentum",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-d964808c57794c078f8246623c970df5",
+    "version": "casual",
+    "term": "dumpster",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-bf12b04e8cca4d438536ac7fd8437a18",
+    "version": "casual",
+    "term": "clock in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-2e056823c67441e6a3b176ef39bdb981",
+    "version": "casual",
+    "term": "scurried away",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-6ec98253d69041e980f948272e2b4c2c",
+    "version": "casual",
+    "term": "take a detour",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-0980136b2a31436db97782889887df5f",
+    "version": "casual",
+    "term": "It's been a blast",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-658f9b2e6f274da5af17a074521a052a",
+    "version": "casual",
+    "term": "drudgery",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-6a7e2552d64e4f269150caf617eef135",
+    "version": "casual",
+    "term": "mayo",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-5fd82577e33f461191ce80a5748a9f67",
+    "version": "casual",
+    "term": "the pot calling the kettle black",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-544f6a9075274d209b390bd2d67800b0",
+    "version": "casual",
+    "term": "skittish",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-1314c0c3a0fb4e3ab6e8b4ba2b723f85",
+    "version": "casual",
+    "term": "raise the stakes",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-bd4b257340264aaba4c01d5e06640efe",
+    "version": "casual",
+    "term": "shiitake mushrooms",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-302beaf8480f445884f44ce10061337e",
+    "version": "casual",
+    "term": "pain au lait",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-af2e4f1332484e799597cc383daa86b3",
+    "version": "casual",
+    "term": "reel in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-9b57f33a65f645be92d4dc42f00f2d2e",
+    "version": "casual",
+    "term": "on our toes",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-29e5c7fbd677464785cb0eb18ab5ce74",
+    "version": "casual",
+    "term": "a complete beginner",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-ab17c5a9ccc14bf694329fd4243dba2c",
+    "version": "casual",
+    "term": "con artist",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-147b1cb4f2c84ae0be7c5c455738dc9a",
+    "version": "casual",
+    "term": "outlaws",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-9c9fad38939d41e385dd6fe4125264ec",
+    "version": "casual",
+    "term": "cinematography",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-4e7194f5e0d34cd7a2dd632aa197418f",
+    "version": "casual",
+    "term": "rant about",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-c574732291e44345bb89a2f1fa136696",
+    "version": "casual",
+    "term": "binge-watching",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-560ab658709840bab17f11efb85cfd22",
+    "version": "casual",
+    "term": "got dinged",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-39ed9d48604346d1a774eedcbb645d39",
+    "version": "casual",
+    "term": "dillydally",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-b48f1d7402f843438088cd35c38e0486",
+    "version": "casual",
+    "term": "keeps our customers up at night",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-4ce4b6ea612e4a008d97470218a543c4",
+    "version": "casual",
+    "term": "seniority",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-bd2feb6fe9e54693a422db176e84879d",
+    "version": "casual",
+    "term": "prompted to",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-4dfa37b79acf43cc894898d140bc3ba6",
+    "version": "casual",
+    "term": "legible",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-5865eb40fe0145f6ae726ffc6931e339",
+    "version": "casual",
+    "term": "keep me in the loop",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-53d9bc4ec4904a0ea821a2f446a6fabe",
+    "version": "casual",
+    "term": "be looped in on",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-7f56b7e7328542738c3fd46a22a39f1b",
+    "version": "casual",
+    "term": "a tight turnaround",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-7c534c9c0ea44e8ca7624f7ece6e4e7f",
+    "version": "casual",
+    "term": "apologized profusely",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-3ba0eb9f9ce04bb6ada5bc5e0cc22b38",
+    "version": "casual",
+    "term": "outmoded products",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-e93312c29f724cdabeb9426fd139c9f7",
+    "version": "casual",
+    "term": "big believers in",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-90b2af3d00ae4c8b816af26f31c9d2bd",
+    "version": "casual",
+    "term": "gave me the warm fuzzies",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "instant-8fa90819be8243a98d217d6664a7394e",
+    "version": "casual",
+    "term": "a big softie",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4020fe1e5cef81558d14ddbb151163f3",
+    "version": "pro",
+    "term": "take silence as approval",
+    "matched": true,
+    "missing": []
+  },
+  {
+    "id": "practice-4020fe1e5cef81558d14ddbb151163f3",
+    "version": "casual",
+    "term": "take silence as approval",
+    "matched": true,
+    "missing": []
+  }
+]
